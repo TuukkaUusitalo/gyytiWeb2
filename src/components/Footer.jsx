@@ -10,7 +10,7 @@ function Footer() {
         Contact:
       </p>
       <p style={{fontSize: '18px', textAlign: 'center'}}>
-        hello@gyyti.com
+        hello@gyyti.com, tuukka@gyyti.com, lauri@gyyti.com
       </p>
       <p className="copyright">
         copyright © Gyyti<span id="date">2025</span>. all rights
