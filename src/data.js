@@ -1,4 +1,4 @@
-import tour1 from "./assets/images/tour-1.jpeg";
+import tour1 from "./assets/images/busStop.png";
 import tour2 from "./assets/images/tour-2.jpeg";
 import tour3 from "./assets/images/tour-3.jpeg";
 import tour4 from "./assets/images/tour-4.jpeg";
@@ -19,21 +19,27 @@ export const socialLinks = [
 export const services = [
   {
     id: 1,
-    icon: "fas fa-wallet fa-fw",
-    title: "saving money",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit Asperiores, officia.",
+    icon: "FaUsers",
+    title: "Gyydin yhteisö",
+    text: "Kuin Tori, mutta kyydeille. Jokainen voi vapaasti tarjota tai pyytää kyytiä omien aikataulujensa mukaan.",
   },
   {
     id: 2,
-    icon: "fas fa-tree fa-fw",
-    title: "endless hiking",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit Asperiores, officia.",
+    icon: "FaRoute",
+    title: "Älykäs reittien yhdistely",
+    text: "Gyydi löytää reaaliajassa samaan suuntaan kulkevat ja näyttää selkeän reittikartan. Yhdessä liikkuminen ei ole koskaan ollut näin helppoa.",
   },
   {
     id: 3,
-    icon: "fas fa-socks fa-fw",
-    title: "amazing comfort",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit Asperiores, officia.",
+    icon: "UserRaiting",
+    title: "Luottamus ja arvostelu",
+    text: "Kaikki käyttäjät esiintyvät omalla nimellään ja arvosteluilla rakennetaan luottamusta.",
+  },
+  {
+    id: 4,
+    icon: "Timing",
+    title: "Aina oikeaan aikaan",
+    text: "Voit sopia kyydin etukäteen tai hypätä kyytiin spontaanisti tien päältä. Gyydi elää ruuhka-aikojen ja arjen rytmissä, joustavasti sinun aikatauluissasi.",
   },
 ];
 

@@ -13,7 +13,8 @@ function App() {
       <Hero />
       <About />
       <Services />
-      <Tours />
+      {/*<Tours />*/}
+      {/*<CommunityAchievements />*/}
       <Footer />
     </div>
   );
