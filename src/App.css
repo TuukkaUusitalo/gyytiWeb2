@@ -10,11 +10,15 @@ Variables
   --clr-primary-2: hsl(185, 84%, 25%);
   --clr-primary-3: hsl(185, 81%, 29%);
   --clr-primary-4: hsl(214, 100%, 73%);
+  --clr-primary-4: hsl(214, 100%, 73%);
   /* primary/main color */
+  --clr-primary-5: #75b0ff;
   --clr-primary-5: #75b0ff;
   /* lighter shades of primary color */
   --clr-primary-6: hsl(214, 100%, 73%);
+  --clr-primary-6: hsl(214, 100%, 73%);
   --clr-primary-7: hsl(184, 65%, 59%);
+  --clr-primary-8: #75b0ff;
   --clr-primary-8: #75b0ff;
   --clr-primary-9: hsl(185, 94%, 87%);
   --clr-primary-10: hsl(186, 100%, 94%);
@@ -183,11 +187,13 @@ p {
   margin: 0 auto;
   max-width: 1170px;
   border-radius: 10px;
+  border-radius: 10px;
 }
 
 @media screen and (min-width: 992px) {
   .section-center {
     width: 95vw;
+    border-radius: 10px;
     border-radius: 10px;
   }
 }
@@ -230,6 +236,7 @@ Hero
   background: var(--clr-white);
   color: var(--clr-primary-5);
   border-radius: 10px;
+  border-radius: 10px;
 }
 
 .hero-btn:hover {
@@ -240,6 +247,9 @@ Hero
 
 @media screen and (min-width: 768px) {
   .hero {
+    background: linear-gradient(#75b0ff, rgba(0, 0, 0, 0.3)),
+      url('./assets/images/fin4.png') center/cover no-repeat;
+      
     background: linear-gradient(#75b0ff, rgba(0, 0, 0, 0.3)),
       url('./assets/images/fin4.png') center/cover no-repeat;
       
@@ -291,6 +301,7 @@ About
     top: -1.5rem;
     left: -1.5rem;
     border-radius: 20px;
+    border-radius: 20px;
   }
 
   .about-img {
@@ -301,8 +312,20 @@ About
     height: 3rem;
   }
 
+  .nav-logo {
+    height: 3rem;
+  }
+
   .about-photo {
     position: relative;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: var(--transition);
+    background: var(--clr-grey-10);
+  }
+  .about-photo:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: scale(1.02);
     border-radius: 20px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     transition: var(--transition);
@@ -331,6 +354,7 @@ Services
 .service-icon {
   background: var(--clr-primary-5);
   color: var(--clr-grey-10);
+  color: var(--clr-grey-10);
   padding: 0.5rem;
   display: inline-block;
   font-size: 2rem;
@@ -354,6 +378,11 @@ Services
 
   .nav-logo {
     height: 3rem;
+    border-radius: 10px;
+  }
+
+  .nav-logo {
+    height: 3rem;
   }
 
   .service {
@@ -369,6 +398,11 @@ Services
 
   .nav-logo {
     height: 3rem;
+    border-radius: 10px;
+  }
+
+  .nav-logo {
+    height: 3rem;
   }
 }
 
@@ -376,6 +410,10 @@ Services
   .service {
     display: flex;
     text-align: left;
+  }
+
+  .nav-logo {
+    height: 3rem;
   }
 
   .nav-logo {
@@ -487,11 +525,17 @@ Featured Tours
   .nav-logo {
     height: 3rem;
   }
+  .nav-logo {
+    height: 3rem;
+  }
 }
 
 @media screen and (min-width: 1170px) {
   .featured-center {
     grid-template-columns: 1fr 1fr 1fr;
+  }
+  .nav-logo {
+    height: 3rem;
   }
   .nav-logo {
     height: 3rem;
@@ -697,6 +741,10 @@ PARTNERS
     height: 3rem;
   }
 
+  .nav-logo {
+    height: 3rem;
+  }
+
   .nav-link {
     padding: 0 0;
   }
@@ -772,7 +820,7 @@ min-height:calc(100vh - 62px);
 
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 445px) {
   .nav-logo {
     height: 3rem;
   }
@@ -784,23 +832,13 @@ min-height:calc(100vh - 62px);
   }
 
   .hero-banner {
-    text-align: center;
-    color: var(--clr-white);
-     padding: 0 1rem;
-  }
-
-  .hero-banner h1 {
-    text-transform: uppercase;
-    font-size: 27px;
+    padding: 0;
   }
 
   .hero-banner p {
-    max-width: 20rem;
-    margin-left: auto;
-    margin-right: auto;
-    color: var(--clr-white);
-    letter-spacing: var(--spacing);
+    max-width: 30rem;
   }
+
 
   .about-photo {
     position: relative;
@@ -808,6 +846,5 @@ min-height:calc(100vh - 62px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     transform: scale(1.02);
   }
-  
 }
 

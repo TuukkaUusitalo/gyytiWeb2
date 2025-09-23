@@ -2,10 +2,14 @@ function Hero() {
   return (
     <section className="hero" id="home">
       <div className="hero-banner">
-        <h1>Digitaalista infrastruktuuria liikkumisen tulevaisuudelle</h1>
+        <h1>SAMA SUUNTA, SAMA GYYTI</h1>
         <p style={{fontWeight: 'bold'}}>
-          Me Gyydillä uskomme, että tavat liikkumiseen muuttuvat merkittävästi, ja seuraavat vuosikymmenet määrittelevät niitä uusia tapoja, joilla maailma liikkuu.
+        Gyydin avulla autoilusta osa julkista liikennettä. 
+        Spontaani matkojen yhdistely on nyt todella helppoa!
         </p>
+        <a href="#about" className="btn hero-btn">
+          Gyyti App
+        </a>
         <a href="#about" className="btn hero-btn">
           Gyyti App
         </a>
