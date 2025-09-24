@@ -12,11 +12,11 @@ export const pageLinks = [
   //{ id: 4, href: "#tours", text: "tours" },
 ];
 
-export const partner = [
-  { id: 1, image: haagaHelia }
-];
-
 export const socialLinks = [
+  { id: 0, href: "https://chat.whatsapp.com/G6mjwkWe1bvKy2lMlIickH", icon: "FaWhatsapp" },
+  // { id: 1, href: "https://www.facebook.com", icon: "fab fa-facebook" },
+  // { id: 2, href: "https://www.x.com", icon: "fab fa-x-twitter" },
+  // { id: 3, href: "https://www.squarespace.com/", icon: "fab fa-squarespace" },
   { id: 0, href: "https://chat.whatsapp.com/G6mjwkWe1bvKy2lMlIickH", icon: "FaWhatsapp" },
   // { id: 1, href: "https://www.facebook.com", icon: "fab fa-facebook" },
   // { id: 2, href: "https://www.x.com", icon: "fab fa-x-twitter" },
