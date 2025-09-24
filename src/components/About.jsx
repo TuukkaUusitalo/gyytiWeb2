@@ -14,14 +14,14 @@ const About = () => {
         <article className="about-info">
           <h3>Gyyti helpottaa päivittäistä liikkumistasi</h3>
           <p>
-            Matkusta nopeammin, suoraviivaisemmin ja edullisesti muuttamalla tyhjiä auton istuimia osaksi julkista liikennettä.
+            Matkusta nopeammin, suoraviivaisemmin ja edullisesti hyödyntämällä tyhjiä auton istuimia osana julkista liikennettä.
           </p>
           <p>
-            Gyyti elää tien päällä – ihmisiä on jatkuvasti matkalla eri suuntiin. Moni muukin kulkee kanssasi jatkuvasti samoja reittejä, siksi kyyti-match voi osua kohdallesi koska tahansa.
+            Gyyti elää tien päällä – ihmisiä on jatkuvasti matkalla eri suuntiin. Moni muukin kulkee kanssasi jatkuvasti samoja reittejä, ja Gyydin avulla voit helposti löytää itsellesi kyyti-matcheja.
           </p>
-          <a href="#" className="btn">
+          {/*<a href="#" className="btn">
             read more
-          </a>
+          </a>*/}
         </article>
       </div>
     </section>

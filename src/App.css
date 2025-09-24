@@ -623,6 +623,7 @@ Navbar
   height: 0;
   overflow: hidden;
   transition: var(--transition);
+  gap: 1rem
 }
 
 .show-links {
