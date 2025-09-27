@@ -12,6 +12,10 @@ export const pageLinks = [
   //{ id: 4, href: "#tours", text: "tours" },
 ];
 
+export const partner = [
+  { id: 1, image: haagaHelia }
+];
+
 export const socialLinks = [
   { id: 0, href: "https://chat.whatsapp.com/G6mjwkWe1bvKy2lMlIickH", icon: "FaWhatsapp" },
   // { id: 1, href: "https://www.facebook.com", icon: "fab fa-facebook" },

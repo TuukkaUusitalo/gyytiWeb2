@@ -16,6 +16,7 @@ function App() {
       <Services />
       {/*<Tours />*/}
       {/*<CommunityAchievements />*/}
+      <Parnerships />
       <Footer />
     </div>
   );
