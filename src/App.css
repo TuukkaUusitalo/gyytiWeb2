@@ -630,6 +630,36 @@ Navbar
   height: 280px;
 }
 
+.partnersbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: var(--clr-white);
+  box-shadow: var(--dark-shadow);
+  z-index: 2;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+}
+.parnersbar-center {
+  width: 90vw;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+.partners-list {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.partner-item img {
+  width: 10rem;
+  height: auto;
+  border-radius: 8px;
+}
+
 /* nav at bigger screen size */
 @media screen and (min-width: 992px) {
 

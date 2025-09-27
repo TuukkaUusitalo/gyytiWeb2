@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Services from "./components/Services";
 import Tours from "./components/Tours";
 import "./App.css";
+import Parnerships from "./components/Parnerships";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Services />
       {/*<Tours />*/}
       {/*<CommunityAchievements />*/}
+      <Parnerships />
       <Footer />
     </div>
   );

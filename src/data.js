@@ -3,11 +3,17 @@ import tour2 from "./assets/images/tour-2.jpeg";
 import tour3 from "./assets/images/tour-3.jpeg";
 import tour4 from "./assets/images/tour-4.jpeg";
 
+import haagaHelia from "./assets/images/HH.jpg";
+
 export const pageLinks = [
   { id: 1, href: "#home", text: "yritys" },
   { id: 2, href: "#about", text: "gyyti app" },
   { id: 3, href: "#services", text: "keskeistä" },
   //{ id: 4, href: "#tours", text: "tours" },
+];
+
+export const partner = [
+  { id: 1, image: haagaHelia }
 ];
 
 export const socialLinks = [
