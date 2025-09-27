@@ -335,6 +335,7 @@ Services
   display: inline-block;
   font-size: 2rem;
   margin-bottom: 1.5rem;
+  border-radius: 10px;
 }
 
 .service-text {
@@ -629,6 +630,12 @@ Navbar
 .show-links {
   height: 280px;
 }
+
+/*
+===========
+PARTNERS
+===========
+*/
 
 .partnersbar {
   position: fixed;
