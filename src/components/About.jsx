@@ -12,12 +12,13 @@ const About = () => {
           <img src={about} className="about-photo" alt="awesome beach" />
         </div>
         <article className="about-info">
-          <h3>Gyyti helpottaa päivittäistä liikkumistasi</h3>
+          <h3>Sama suunta – sama gyyti</h3>
           <p>
-            Matkusta nopeammin, suoraviivaisemmin ja edullisesti hyödyntämällä tyhjiä auton istuimia osana julkista liikennettä.
+            Matkusta nopeammin, suoraviivaisemmin ja edullisesti hyödyntämällä tyhjiä auton istuimia, kuin osana julkista liikennettä.
+            Spontaani matkojen yhdistely on nyt todella helppoa!
           </p>
           <p>
-            Gyyti elää tien päällä – ihmisiä on jatkuvasti matkalla eri suuntiin. Moni muukin kulkee kanssasi jatkuvasti samoja reittejä, ja Gyydin avulla voit helposti löytää itsellesi kyyti-matcheja.
+            Gyyti elää tien päällä. Ihmisiä on jatkuvasti matkalla eri suuntiin, ja moni muukin kulkee kanssasi jatkuvasti samoja reittejä. Gyydin avulla voit helposti löytää itsellesi kyyti-matcheja.
           </p>
           {/*<a href="#" className="btn">
             read more
