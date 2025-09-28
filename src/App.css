@@ -772,7 +772,7 @@ min-height:calc(100vh - 62px);
 
 }
 
-@media screen and (max-width: 445px) {
+@media screen and (max-width: 450px) {
   .nav-logo {
     height: 3rem;
   }
