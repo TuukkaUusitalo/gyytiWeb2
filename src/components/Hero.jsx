@@ -4,11 +4,8 @@ function Hero() {
       <div className="hero-banner">
         <h1>Digitaalista infrastruktuuria liikkumisen tulevaisuudelle</h1>
         <p style={{fontWeight: 'bold'}}>
-          Me Gyydillä uskomme, että tavat liikkumiseen muuttuvat merkittävästi, ja seuraavat vuosikymmenet määrittelevät niitä uusia tapoja, joilla maailma liikkuu.
+          Me Gyydillä uskomme, että tavat liikkua muuttuvat tulevaisuudessa merkittävästi, ja seuraava vuosikymmen määrittelee tapoja, joilla maailma tulee liikkumaan.
         </p>
-        <a href="#about" className="btn hero-btn">
-          Gyyti App
-        </a>
         <a href="#about" className="btn hero-btn">
           Gyyti App
         </a>

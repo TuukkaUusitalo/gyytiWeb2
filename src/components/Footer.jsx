@@ -9,7 +9,7 @@ function Footer() {
       <p style={{fontSize: '25px', textAlign: 'center'}}>
         Contact:
       </p>
-      <p style={{fontSize: '18px', textAlign: 'center'}}>
+      <p style={{fontSize: '15px', textAlign: 'center'}}>
         hello@gyyti.com, tuukka@gyyti.com, lauri@gyyti.com
       </p>
       <p className="copyright">
