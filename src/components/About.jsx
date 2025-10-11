@@ -1,4 +1,4 @@
-import about from "../assets/images/aboutPicture.png";
+import about from "../assets/images/aboutPicture.webp";
 import Title from "./Title.jsx";
 
 const About = () => {

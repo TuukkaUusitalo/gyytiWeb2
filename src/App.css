@@ -248,11 +248,7 @@ Hero
 @media screen and (min-width: 768px) {
   .hero {
     background: linear-gradient(#75b0ff, rgba(0, 0, 0, 0.3)),
-      url('./assets/images/fin4.png') center/cover no-repeat;
-      
-    background: linear-gradient(#75b0ff, rgba(0, 0, 0, 0.3)),
-      url('./assets/images/fin4.png') center/cover no-repeat;
-      
+      url('./assets/images/fin4.webp') center/cover no-repeat;
   }
 
   .hero-banner {
@@ -807,7 +803,7 @@ min-height:calc(100vh - 62px);
   .hero {
     min-height: 80vh; /* esim. puolet näytöstä */
     background: linear-gradient(#75b0ff, rgba(0, 0, 0, 0.5)),
-      url('./assets/images/fin3.png') center/cover no-repeat;
+      url('./assets/images/fin3.webp') center/cover no-repeat;
   }
 
   .hero-banner {
@@ -828,7 +824,7 @@ min-height:calc(100vh - 62px);
   .hero {
     min-height: 100vh; /* esim. puolet näytöstä */
     background: linear-gradient(#75b0ff, rgba(0, 0, 0, 0.3)),
-      url('./assets/images/fin2.png') center/cover no-repeat;
+      url('./assets/images/fin2.webp') center/cover no-repeat;
   }
 
   .hero-banner {
