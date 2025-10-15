@@ -1,7 +1,7 @@
 import { services } from '../data'
 import Title from './Title'
 import Service from './Service'
-import { FaUsers, FaRoute, FaClock } from 'react-icons/fa6'
+import { FaUsers, FaRoute, FaClock, FaCheck } from 'react-icons/fa6'
 import { PiUserCircleCheckFill } from "react-icons/pi";
 
 
@@ -10,6 +10,7 @@ const iconMap = {
   FaRoute: <FaRoute />,
   UserRaiting: <PiUserCircleCheckFill />,
   Timing: <FaClock />,
+  FaCheck: <FaCheck />
 }
 
 const Services = () => {

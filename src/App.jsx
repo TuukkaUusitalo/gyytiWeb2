@@ -6,6 +6,7 @@ import Services from "./components/Services";
 import Tours from "./components/Tours";
 import "./App.css";
 import Parnerships from "./components/Parnerships";
+import CommunitiesPage from "./components/CommunitiesPage";
 
 function App() {
   return (
@@ -13,10 +14,11 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+      <Parnerships />
       <Services />
       {/*<Tours />*/}
       {/*<CommunityAchievements />*/}
-      <Parnerships />
+      <CommunitiesPage />
       <Footer />
     </div>
   );

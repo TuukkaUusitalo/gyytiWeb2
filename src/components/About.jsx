@@ -14,7 +14,7 @@ const About = () => {
         <article className="about-info">
           <h3>Sama suunta – sama gyyti</h3>
           <p>
-            Matkusta nopeammin, suoraviivaisemmin ja edullisesti. Gyyti tuo yksityisautoilun ja tyhjät autonistuimet julkisen liikenteen yhteyteen.
+            Matkusta nopeammin, suoraviivaisemmin ja edullisesti - yhtä helppo kuin Bolt ja Uber. Gyyti tuo yksityisautoilun ja tyhjät autonistuimet julkisen liikenteen yhteyteen.
             Spontaani matkojen yhdistely on nyt todella helppoa!
           </p>
           <p>
