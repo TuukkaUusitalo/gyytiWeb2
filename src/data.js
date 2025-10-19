@@ -50,13 +50,13 @@ export const services = [
     id: 3,
     icon: "UserRaiting",
     title: "Luottamus ja arvostelu",
-    text: "Kaikki käyttäjät esiintyvät omalla nimellään ja arvosteluilla rakennetaan luottamusta.",
+    text: "Kaikki käyttäjät esiintyvät omalla nimellään, ja arvosteluilla rakennetaan luottamusta.",
   },
   {
     id: 4,
     icon: "Timing",
     title: "Aina oikeaan aikaan",
-    text: "Voit sopia kyydin etukäteen tai hypätä kyytiin spontaanisti tien päältä. Gyydi elää ruuhka-aikojen ja arjen rytmissä, joustavasti sinun aikatauluissasi.",
+    text: "Voit sopia kyydin etukäteen tai hypätä kyytiin spontaanisti tien päältä. Gyyti elää ruuhka-aikojen ja arjen rytmissä, joustavasti sinun aikatauluissasi.",
   },
 ];
 
