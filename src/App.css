@@ -187,13 +187,11 @@ p {
   margin: 0 auto;
   max-width: 1170px;
   border-radius: 10px;
-  border-radius: 10px;
 }
 
 @media screen and (min-width: 992px) {
   .section-center {
     width: 95vw;
-    border-radius: 10px;
     border-radius: 10px;
   }
 }

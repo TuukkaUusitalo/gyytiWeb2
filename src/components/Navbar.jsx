@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="nav-center">
           <Header />
           <PageLinks parentClass="nav-links" itemClass="nav-link" />
-          <SocialLinks parentClass="nav-icons" itemClass="nav-icon"/>
+      {/* <SocialLinks parentClass="nav-icons" itemClass="nav-icon"/> */}
         </div>
       </nav>
     </div>
