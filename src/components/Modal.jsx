@@ -75,7 +75,7 @@ const Modal = ({ isOpen, onClose, title, pdfUrl }) => {
         <p style={{ marginBottom: "1rem", color: "#333" }}>
           Vuotuiset CO₂-päästöt henkilötasolla = 105 g/km × 30 000 km = 3,15 tonnia CO₂ / vuosi
         </p>
-        <p style={{ marginBottom: "1rem", color: "#333" }}>100 ihmisen organisaatio:</p>
+        <p style={{ marginBottom: "1rem", color: "#333", fontWeight: 'bold' }}>100 ihmisen organisaatio:</p>
         <p style={{ marginBottom: "1rem", color: "#333" }}>- 33% henkilöstöstä autoilee työpaikalle</p>
         <p style={{ marginBottom: "1rem", color: "#333" }}>- 33 x 3,15 tonnia CO₂ / vuosi = 103,95 tonnia CO₂ / vuosi</p>
         <p style={{ marginBottom: "1rem", color: "#333" }}>
