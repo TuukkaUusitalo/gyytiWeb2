@@ -1,4 +1,4 @@
-import logo from '../assets/images/logo_new.png'
+import logo from '../assets/images/logo_new2.png'
 import { HashLink } from "react-router-hash-link";
 
 function Header() {

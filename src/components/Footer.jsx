@@ -13,7 +13,7 @@ function Footer() {
         hello@gyyti.com, tuukka@gyyti.com, lauri@gyyti.com
       </p>
       <p className="copyright">
-        copyright © Gyyti<span id="date">2025</span>. all rights
+        copyright © Gyyti<span id="date">2026</span>. all rights
         reserved
       </p>
     </footer>
