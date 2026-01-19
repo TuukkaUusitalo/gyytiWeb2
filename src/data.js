@@ -32,7 +32,7 @@ export const services = [
     id: 0,
     icon: "FaCheck",
     title: "Helppo käyttää",
-    text: "Yhtä helppo kuin Bolt tai Uber. Varaa kyyti muutamalla klikkauksella reaaliajassa tai ajastetusti.",
+    text: "Yhtä helppo kuin Bolt. Varaa kyyti muutamalla klikkauksella reaaliajassa tai ajastetusti.",
   },
   {
     id: 1,
@@ -102,7 +102,7 @@ export const tours = [
     id: 6,
     image: hobbies,
     title: "harrasteyhteisöt",
-    info: ` Kyydit treeneihin, peleihin ja tapahtumiin Gyydissä muutamalla klikkauksella. Tutussa porukassa, olipa kyse urheilujoukkueesta, bändistä tai yhdistyksestä.`,
+    info: ` Kimppakyydit treeneihin, peleihin ja tapahtumiin Gyydissä muutamalla klikkauksella. Tutussa porukassa, olipa kyse urheilujoukkueesta, bändistä tai yhdistyksestä.`,
     hasModal: false,
   },
 ];
