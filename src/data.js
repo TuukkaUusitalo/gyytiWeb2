@@ -18,7 +18,7 @@ export const partner = [
 ];
 
 export const socialLinks = [
-  { id: 0, href: "https://chat.whatsapp.com/LW6NozXnVJZ65P5m5cbIGP", icon: "FaWhatsapp", text: "WhatsApp Community" },
+  { id: 0, href: "https://chat.whatsapp.com/JPhol4gvpCx9xB5FEXWqSd", icon: "FaWhatsapp", text: "WhatsApp Community" },
   // { id: 1, href: "https://www.facebook.com", icon: "fab fa-facebook" },
   // { id: 2, href: "https://www.x.com", icon: "fab fa-x-twitter" },
   // { id: 3, href: "https://www.squarespace.com/", icon: "fab fa-squarespace" },
