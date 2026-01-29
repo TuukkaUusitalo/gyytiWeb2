@@ -156,6 +156,7 @@ p {
   border: 2px solid transparent;
   cursor: pointer;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
 }
 
 .btn:hover {
@@ -228,6 +229,13 @@ Hero
   letter-spacing: var(--spacing);
 }
 
+.hero-banner img {
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  border-radius: 10px;
+  width: 40rem;
+}
+
 .hero-btn {
   padding: 0.9rem 1.6rem;
   font-size: 1.25rem;
@@ -255,6 +263,10 @@ Hero
 
   .hero-banner p {
     max-width: 45rem;
+  }
+  
+  .hero-banner img {
+    width: 40rem;
   }
 }
 
@@ -815,6 +827,10 @@ min-height:calc(100vh - 62px);
     max-width: 30rem;
   }
 
+  .hero-banner img {
+    width: 35rem;
+  }
+
 }
 
 @media screen and (max-width: 450px) {
@@ -847,11 +863,23 @@ min-height:calc(100vh - 62px);
     letter-spacing: var(--spacing);
   }
 
+  .hero-banner img {
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    border-radius: 10px;
+    width: 25rem;
+  }
+
   .about-photo {
     position: relative;
     border-radius: 20px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     transform: scale(1.02);
+  }
+
+  .about btn {
+    padding: auto;
+    font-size: 1rem;
   }
   
 }

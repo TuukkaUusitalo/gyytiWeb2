@@ -10,7 +10,8 @@ export const pageLinks = [
   { id: 1, href: "#about", text: "gyyti app" },
   { id: 2, href: "#services", text: "keskeistä" },
   { id: 3, href: "#communities", text: "yritykset & yhteisöt" },
-  //{ id: 4, href: "#tours", text: "tours" },
+  { id: 4, href: "#mission", text: "missio" },
+  //{ id: 5, href: "#tours", text: "tours" },
 ];
 
 export const partner = [

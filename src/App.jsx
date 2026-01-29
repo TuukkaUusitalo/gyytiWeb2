@@ -7,6 +7,7 @@ import Tours from "./components/Tours";
 import "./App.css";
 import Parnerships from "./components/Parnerships";
 import CommunitiesPage from "./components/CommunitiesPage";
+import Mission from "./components/Mission";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       {/*<Tours />*/}
       {/*<CommunityAchievements />*/}
       <CommunitiesPage />
+      <Mission />
       <Footer />
     </div>
   );
