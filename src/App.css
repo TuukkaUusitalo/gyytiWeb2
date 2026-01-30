@@ -864,9 +864,7 @@ min-height:calc(100vh - 62px);
   }
 
   .hero-banner img {
-    margin-top: 2rem;
     margin-bottom: 4rem;
-    border-radius: 10px;
     width: 25rem;
   }
 
@@ -877,8 +875,7 @@ min-height:calc(100vh - 62px);
     transform: scale(1.02);
   }
 
-  .about btn {
-    padding: auto;
+  .about-btn {
     font-size: 1rem;
   }
   
