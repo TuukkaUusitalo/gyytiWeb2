@@ -847,7 +847,6 @@ min-height:calc(100vh - 62px);
   .hero-banner {
     text-align: center;
     color: var(--clr-white);
-    padding: 0 1rem;
   }
 
   .hero-banner h1 {
