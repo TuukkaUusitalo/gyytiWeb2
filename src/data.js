@@ -1,10 +1,10 @@
-import busStop from "./assets/images/busStop2.webp";
+import busStop from "./assets/images/busstop.webp";
 import haagaHelia from "./assets/images/HH.jpg";
-import roads from "./assets/images/roads.webp";
+import roads from "./assets/images/commuting.webp";
 import buildings from "./assets/images/buildings.webp";
-import schools from "./assets/images/schools.webp";
+import schools from "./assets/images/oodi.webp";
 import events from "./assets/images/events.webp";
-import hobbies from "./assets/images/hobbies.webp";
+import hobbies from "./assets/images/hobby.webp";
 
 export const pageLinks = [
   { id: 1, href: "#about", text: "gyyti app" },
