@@ -45,7 +45,7 @@ export const services = [
     id: 2,
     icon: "FaRoute",
     title: "Älykäs reittien yhdistely",
-    text: "Gyydi löytää reaaliajassa samaan suuntaan kulkevat ja näyttää selkeän reittikartan. Yhdessä liikkuminen ei ole koskaan ollut näin helppoa.",
+    text: "Gyyti löytää reaaliajassa samaan suuntaan kulkevat ja näyttää selkeän reittikartan. Yhdessä liikkuminen ei ole koskaan ollut näin helppoa.",
   },
   {
     id: 3,

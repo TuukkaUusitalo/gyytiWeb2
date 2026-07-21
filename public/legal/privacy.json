@@ -1,0 +1,349 @@
+{
+    "updated": "2026-06-24",
+    "effective": "2026-06-24",
+    "language": "fi",
+    "sections": [
+        {
+        "title": "Tietosuoja- ja evästekäytännöt",
+        "body1": "Liiketoimintamme keskeisenä tarkoituksena on tarjota käyttäjillemme turvallinen, sujuva ja voimaannuttava tapa sopia yhteiskyydityksistä ja liikkua yhdessä. Käytämme dataa tämän tarkoituksen toteuttamiseksi Gyyti-sovelluksessa ja siihen liittyvissä palveluissa Tuukka Uusitalon valvonnassa ja vastuulla.",
+        "body2": "Jotta käyttäjät voivat luottaa meihin ja palveluumme nyt ja tulevaisuudessa, meille on ensiarvoisen tärkeää, että heidän henkilötietojaan käsitellään läpinäkyvästi, huolellisesti ja turvallisesti.",
+        "body3": "Arvostamme käyttäjiemme yksityisyyttä. Ymmärrämme, että henkilötietojen käsittely on olennainen osa palvelumme tarjoamista – esimerkiksi matkasuositusten, kyytipyyntöjen ja ilmoitusten toimittamisessa. Käytämme ja hyödynnämme kerättyä dataa palvelun kehittämiseen, toiminnallisuuksien parantamiseen sekä palvelun turvallisuuden varmistamiseen. Emme käsittele maksutietoja osana Palvelua, sillä Gyyti ei välitä maksuja käyttäjien välillä.",
+        "body4": "Emme jaa käyttäjätietoja ulkopuolisille brändeille tai markkinapaikoille. Tietoja käsitellään vain palvelun toteuttamiseksi, palvelun sisäisesti ja mahdollisten valittujen palvelukumppaneiden kanssa, kun se on välttämätöntä palvelun toimittamiseksi (esim. analytiikka, pilvipalvelut, push-ilmoitukset). Olemme sitoutuneet avoimuuteen ja tasapainon löytämiseen käyttäjien yksityisyyden ja palvelun toiminnallisuuden välillä.",
+        "body5": "Tällä sivulla kerromme yhteenvedon siitä, mitä tietoja keräämme, miksi niitä kerätään, kenelle niitä voidaan jakaa sekä miten voit käyttää henkilötietoja koskevia oikeuksiasi.",
+        "body6": "Jos sinulla on kysyttävää henkilötietojen käsittelystä, voit ottaa yhteyttä ylläpitäjään osoitteessa: tuukka@gyyti.com. Lupaamme vastata kaikkiin yhteydenottoihin 30 päivän kuluessa.",
+        "body7": "Voit myös milloin tahansa tehdä valituksen kansalliselle tietosuojaviranomaiselle (Suomessa: Tietosuojavaltuutetun toimisto)."
+        },
+        {
+            "title": "Gyydin henkilötietojen käyttötarkoitukset",
+            "body1": "Palveluntarjoaja käyttää henkilötietojasi palvelun tuottamiseksi, ylläpitämiseksi ja kehittämiseksi seuraaviin tarkoituksiin:",
+            "body2": "Palvelun tarjoaminen ja käyttäjien välinen vuorovaikutus:",
+            "body3": "– Mahdollistamme kyyti-ilmoitusten tekemisen, kyytipyyntöjen lähettämisen ja käyttäjien välisen viestinnän.",
+            "body4": "– Käytämme henkilötietoja käyttäjätilin hallintaan sekä Palvelun turvalliseen käyttöön.",
+            "body5": "– Tietoja käytetään myös ilmoitusten näkyvyyteen ja perustoiminnallisuuksiin (esim. sijaintiin perustuvat ehdotukset, profiilitiedot, käyttäjien tavoittaminen viestiyhteydellä).",
+            "body6": "Palvelun käyttöoikeuden hallinta:",
+            "body7": "– Gyyti-tilin kautta käyttäjät voivat hallita omia tietojaan, ilmoituksiaan ja asetuksiaan.",
+            "body8": "– Käytämme tietoja kirjautumisen, tunnistautumisen ja väärinkäytösten estämiseksi.",
+            "body9": "Asiakaspalvelu:",
+            "body10": "– Tarjoamme käyttäjille asiakaspalvelua sähköpostitse.",
+            "body11": "– Käsittelemme henkilötietoja, jotta voimme vastata kysymyksiin, selvittää ongelmatilanteita ja tarjota tukea.",
+            "body12": "Lainsäädännölliset velvoitteet:",
+            "body13": "– Säilytämme tiettyjä tietoja lain edellyttämällä tavalla (esim. kirjanpidolliset ja tietoturvaan liittyvät velvoitteet, viranomaisvelvoitteet ja raportointi).",
+            "body14": "– Huomio: Gyyti ei kerää eikä käsittele maksutietoja, koska palvelussa ei välitetä maksuja käyttäjien välillä.",
+            "body15": "Palvelun kehittäminen:",
+            "body16": "– Analysoimme käyttäjien toimintaa ja palautteita (esim. käyttödata, virheilmoitukset, kyselyihin annetut vastaukset).",
+            "body17": "– Tietoja käytetään palvelun käytettävyyden, suorituskyvyn ja turvallisuuden parantamiseen sekä uusien ominaisuuksien kehittämiseen.",
+            "body18": "Turvallisuus ja väärinkäytösten estäminen:",
+            "body19": "– Käytämme tietoja petosten, huijausten, käyttöehtojen rikkomusten ja häirinnän ehkäisemiseksi.",
+            "body20": "Push-ilmoitukset ja palvelusisältö:",
+            "body21": "– Lähetämme käyttäjille palvelun toimintaan liittyviä ilmoituksia (esim. uudet viestit, vastaus kyyti-ilmoitukseen, sovelluksen päivitykset).",
+            "body22": "– Emme lähetä käyttäjille maksettuja mainoksia emmekä jaa dataa ulkopuolisiin markkinointijärjestelmiin.",
+            "body23": "",
+            "body24": "Tämän avulla löydät:",
+            "body25": "– yksityiskohtaisen erittelyn Gyydin käsittelytoimenpiteistä ja edellä mainituista tarkoituksista",
+            "body26": "– käsittelyn mahdollistavat oikeusperusteet",
+            "body27": "– oikeutetut edut, joihin Gyyti nojaa",
+            "body28": "– muut keskeiset tiedot henkilötietojen käsittelymme oikeusperusteista",
+            "body29": "– Pyrimme tarjoamaan käyttäjillemme hallintamahdollisuuksia tietojen käsittelyyn",
+            "body30": "Palvelussa useista eri paikoista"
+        },
+        {
+            "title": "Profiilin perustiedot",
+            "body1": "Kuvaus",
+            "body2": "Käsittelemme käyttäjätiliisi tallentamia perustietoja, jotta Palvelun toimivuuden varmistamiseksi ja jotta muut käyttäjät voivat arvioida kenen kanssa asioivat. Näihin tietoihin voivat kuulua:",
+            "body3": "nimi, sähköpostiosoite, puhelinnumero, profiilikuva (valinnainen), syntymävuosi tai ikä (palvelun ikärajan varmistamiseksi)",
+            "body4": "Lähde",
+            "body5": "Saamme nämä tiedot:",
+            "body6": "– suoraan käyttäjältä, kun käyttäjä luo tilin tai päivittää omia tietojaan",
+            "body7": "– suoraan käyttäjän toiminnasta Palvelussa, kuten ajoneuvotietojen lisäämisestä kyyti-ilmoitusta varten",
+            "body8": "puhelinnumeron vahvistusprosessissa, kun käyttäjä varmistaa numeronsa tekstiviestikoodilla",
+            "body9": "profiilikuvan ja kuvauksen lisäämisestä, jos käyttäjä valitsee ne tallentaa",
+            "body10": "Gyyti ei kerää eikä vastaanota vahvan tunnistautumisen yhteydessä pankkitilitietoja, luotto- tai maksutietoja, varallisuutta koskevia tietoja tai muita tunnistautumispalvelun sisäisiä tietoja."
+        },
+        {
+            "title": "Kolmansilta osapuolilta saadut tiedot",
+            "body1": "Kuvaus",
+            "body2": "Voimme saada tietoja sinusta kolmansilta osapuolilta seuraavissa tilanteissa:",
+            "body3": "– Ilmoitukset, vihjeet ja palautteet, jotka muut käyttäjät antavat sinusta liittyen Palvelun käyttöön (esimerkiksi epäasiallinen käytös, väärinkäytökset, turvallisuushuomiot tai havainnot matkoista).",
+            "body4": "– Auton rekisterinumero tai muut ajoneuvotiedot, jos toinen käyttäjä ilmoittaa meille esimerkiksi väärinkäytöksistä, turvallisuusriskeistä tai epäselvyyksistä ilmoituksissa.",
+            "body5": "– Käyttäjien tekemät pyynnöt ja raportit, kuten kyyti-ilmoituksen virheellisyydestä tai epäluotettavasta toiminnasta.",
+            "body6": "– Viranomaisten meille toimittamat tiedot, jos laki edellyttää (esimerkiksi tietopyyntö rikostutkinnan yhteydessä).",
+            "body7": "– Yrityskumppaneilta saadut rajatut tiedot, jos palvelun toimittaminen sitä edellyttää (esimerkiksi vahvan tunnistautumisen varmentaja toimittaa meille tiedon onnistuneesta tunnistautumisesta).",
+            "body8": "– Käyttäjän suostumuksella tehtävät tutkimukset, kuten käyttäjäkokemukseen liittyvät kyselyt, joita voidaan toteuttaa kolmannen osapuolen tutkimuspalvelun (esimerkiksi Norstat tai vastaava) kautta.",
+            "body9": "Lähde",
+            "body10": "Saamme näitä tietoja seuraavista lähteistä:",
+            "body11": "– Toiset Gyyti-palvelun käyttäjät (esimerkiksi ilmoitukset, raportit, palautteet)",
+            "body12": "– Viranomaiset, jos meiltä pyydetään tietoja lakisääteisesti tai viranomainen toimittaa meille tietoja",
+            "body13": "– Palveluntarjoajan käyttämät kumppanit, kuten",
+            "body14": "1. vahvan tunnistautumisen palveluntarjoajat (esim. pankkitunnistus, mobiilivarmenne)",
+            "body15": "2. viestintä- ja varmennuspalvelut (esim. SMS-varmennus)"
+        },
+        {
+            "title": "Maksu- ja laskutustiedot",
+            "body1": "Kuvaus",
+            "body2": "Gyyti-Palvelu ei käsittele käyttäjien maksutietoja, pankki- tai luottokorttitietoja, pankkitilitietoja, laskutustietoja eikä ostohistoriaa. Gyyti-Palvelu ei myöskään vastaanota, välitä tai säilytä maksutapahtumia, sillä Palvelu ei sisällä rahansiirtoja eikä toimi maksunvälityspalveluna.",
+            "body3": "Palvelun toiminnan kannalta keräämme kuitenkin kyytiin liittyviä tietoja, kuten:",
+            "body4": "– kyydin lähtö- ja määräpaikka",
+            "body5": "– ajankohdat",
+            "body6": "– käyttäjien roolit (autoilija ja matkustaja)",
+            "body7": "– kyydissä olleet käyttäjät",
+            "body8": "– kyytipyyntöjen ja -tarjousten sisällöt",
+            "body9": "– mahdolliset reittitiedot ja niihin liittyvät asetukset",
+            "body10": "Nämä tiedot eivät ole ostohistoriaa tai maksutietoja, mutta ne ovat välttämättömiä Palvelun turvallisuuden varmistamiseksi ja väärinkäytösten torjumiseksi.",
+            "body11": "Jos käyttäjät sopivat keskenään mahdollisista maksuista esimerkiksi kyydin korvauksena, he tekevät sen itsenäisesti Palvelun ulkopuolella, käyttäen itse valitsemiaan maksutapoja. Gyyti ei ole osapuolena näissä maksuissa eikä käsittele niihin liittyviä henkilötietoja.",
+            "body12": "Lähde",
+            "body13": "Kyytitiedot kerätään suoraan käyttäjältä heidän käyttäessään Palvelua (esim. syöttäessään kyytipyyntöjä tai -tarjouksia tai hyväksyessään kyydin).",
+            "body14": "Koska Gyyti ei Palveluntarjoajana ei käsittele maksutapahtumia, emme kerää maksamiseen liittyviä tietoja lainkaan."
+        },
+        {
+            "title": "Käyttäjän luoma sisältö",
+            "body1": "Kuvaus",
+            "body2": "Käyttäjäprofiili ja ilmoitukset: Profiilikuvaukset, ilmoitukset, kyytipyynnöt ja -tarjoukset (sisältäen vapaaehtoiset sijainti- ja reittitiedot sekä mieltymykset), sekä käyttäjän mahdollisesti myöhemmin lisäämä multimediasisältö kuten kuvat, videot ja äänitallenteet.",
+            "body3": "Viestintä ja palaute: Käyttäjien väliset viestit sekä tiedot reklamaatioista, palautteista, arvosteluista ja kommenteista, jotka liittyvät palvelun käyttöön tai muihin käyttäjiin. Myös käyttäjän antamat vastaukset saamastaan palautteesta.",
+            "body4": "Käyttäjäasetukset ja kyselyt: Hakujen ja kiinnostuksen kohteiden räätälöintiin annetut ehdot ja suodattimet, tallennetut haut ja suosikit sekä kyselyihin tai käyttäjätutkimuksiin annetut vastaukset (mukaan lukien mahdolliset demografiatiedot).",
+            "body5": "Asiakaspalvelukyselyt ja yhteydenotot: Käyttäjän lähettämät viestit Palveluntarjoajan asiakaspalveluun tai tukeen.",
+            "body6": "Arkaluonteinen sisältö:",
+            "body7": "Lähde",
+            "body8": "Suoraan käyttäjältä."
+        },
+        {
+            "title": "Käyttäytymistiedot ja tekniset tiedot",
+            "body1": "Kuvaus",
+            "body2": "Keräämme tietoja käyttäjän palvelun käytöstä ja teknisestä ympäristöstä, jotta voimme ylläpitää, kehittää ja turvallistaa palvelua. Näihin kuuluvat muun muassa:",
+            "body3": "– Laitteeseen liittyvät tunnisteet ja käyttäjätunnisteet.",
+            "body4": "– Evästetunnisteet ja muut selaimen tai sovelluksen tunnisteet.",
+            "body5": "– Verkkotunnistetiedot, kuten IP-osoite.",
+            "body6": "– Mainontaan liittyvät tunnisteet ja tiedot mainosten näyttämisestä.",
+            "body7": "– Käyttäjän selaus-, vierailu- ja lukuhistoria sekä palvelun käyttöön liittyvä toiminta (esim. napautukset ja käyttäjän syötteet).",
+            "body8": "– Palvelujen käytön metatiedot ja tapahtumat, kuten ilmoitusten luominen, kyytipyynnöt ja viestien lähettäminen käyttäjien välillä, sekä sähköpostien avaus- ja lukutiedot.",
+            "body9": "Lähde",
+            "body10": "Suoraan käyttäjältä tai käyttäjän laitteesta."
+        },
+        {
+            "title": "Sijaintitiedot",
+            "body1": "Kuvaus",
+            "body2": "Keräämme sijaintitietoja, jotka perustuvat:",
+            "body3": "– Laitteen GPS-tietoihin, jos käyttäjä on antanut luvan sijainnin jakamiseen, sekä",
+            "body4": "– IP-osoitteeseen perustuvaan arvioituun sijaintiin, jota käytetään mm. palvelun turvallisuuden ja perustoimintojen varmistamiseen.",
+            "body5": "Sijaintitietoja käytetään esimerkiksi kyyti- ja reittipalveluiden tarjoamiseen, lähialueen käyttäjien näkyvyyteen, turvallisuuden parantamiseen sekä väärinkäytösten estämiseen.",
+            "body6": "Lähde",
+            "body7": "Suoraan käyttäjältä tai käyttäjän laitteesta käyttäjän antamien asetusten ja lupien mukaisesti."
+        },
+        {
+            "title": "Käyttäjästä johdetut tai päätellyt tiedot",
+            "body1": "Kuvaus",
+            "body2": "Arviot ja päättelyt, kuten ennustettu sukupuoli ja ikäryhmä sekä käyttäjän mieltymykset ja todennäköiset sijainnit.",
+            "body3": "Lähde",
+            "body4": "Gyyti-Palvelun ennusteet käyttäjistä perustuvat ajan myötä kerättyihin käyttäytymistietoihin ja teknisiin tietoihin sekä profiilin perustietoihin."
+        },
+        {
+            "title": "Yhteistyökumppanien tarjouksiin ja etuihin liittyvät vuorovaikutustiedot",
+            "body1": "Kuvaus",
+            "body2": "Mikäli käyttäjälle myöhemmin näytetään yhteistyöyritysten tuotteita, etuja tai alennuksia, keräämme tietoa siitä:",
+            "body3": "– näytettiinkö tarjous käyttäjälle",
+            "body4": "– kuinka monta kertaa se näytettiin",
+            "body5": "– kauanko sisältö oli näkyvissä",
+            "body6": "mitä vuorovaikutusta käyttäjä teki tarjouksen kanssa (esim. tarjouksen avaaminen ja lisätietojen näyttäminen)",
+            "body7": "Näitä tietoja käytetään palvelun kehittämiseen, tarjousten relevanssin parantamiseen sekä yhteistyökumppaneiden palvelujen toimittamiseen.",
+            "body8": "Emme tällä hetkellä näytä mainontaa, emmekä käytä näitä tietoja mainonnan kohdentamiseen ennen kuin siitä ilmoitetaan erikseen ja käyttäjä antaa siihen suostumuksensa.",
+            "body9": "Lähde",
+            "body10": "Suoraan käyttäjän vuorovaikutuksesta Gyydin sovelluksessa tai palvelussa näytettävien yhteistyökumppaneiden sisältöjen kanssa."
+        },
+        {
+            "title": "B2B-asiakastiedot",
+            "body1": "Kuvaus",
+            "body2": "Gyydin mahdollisilta yritysasiakkailta ja yhteistyökumppaneilta sekä heidän yhteyshenkilöiltään voimme kerätä seuraavia tietoja:",
+            "body3": "– yhteystiedot (nimi, sähköposti, puhelinnumero)",
+            "body4": "– rityksen nimi ja perustiedot",
+            "body5": "– viestintätallenteet (esim. sähköpostit, muistiinpanot, asiakaspalaverien merkinnät, sovitusti tallennetut puhelut tai äänitteet)",
+            "body6": "– tapahtuma- ja tapaamisosallistumiset",
+            "body7": "– ostohistoria ja tilaukset liittyen yrityksille tarjottuihin palveluihin tai käyttäjien kiinnostukseen ja vuorovaikutukseen yritysten palveluita kohtaan Gyyti-Palvelussa",
+            "body8": "– sopimustiedot ja niihin liittyvä dokumentaatio",
+            "body9": "– asiakastuen yhteydenotot ja niihin liittyvät tiedot",
+            "body10": "– yritykseen liittyvät riskienhallintatiedot",
+            "body11": "– tieto mahdollisista eduista, tarjouksista tai lahjoista, joita yritysyhteistyön puitteissa tarjotaan",
+            "body12": "Gyyti voi käsitellä yritysyhteistyökumppanien ja heidän henkilöstönsä tietoja palveluiden toimittamista, sopimusten hallintaa, asiakasviestintää ja liiketoiminnan kehittämistä varten.",
+            "body13": "Lähde",
+            "body14": "suoraan yritysasiakkaalta tai yhteistyökumppanilta, kun he ovat yhteydessä Gyydiin",
+            "body15": "yrityksen edustajien ja Gyydin välisestä viestinnästä",
+            "body16": "kolmansien osapuolten kautta, kun osoite- tai yhteystietoja päivitetään tai varmistetaan (esimerkiksi KYB-tarkistusten yhteydessä)"
+        },
+        {
+            "title": "Henkilötietojen jakaminen muille osapuolille",
+            "body1": "Gyyti jakaa henkilötietoja vain silloin, kun se on välttämätöntä Palvelun tarjoamiseksi, lain noudattamiseksi tai käyttäjän antaman suostumuksen perusteella. Tietoja jaetaan seuraaville tahoille:",
+            "body2": "Henkilötietojen käsittelijät",
+            "body3": "Kyseessä ovat palveluntarjoajat, jotka käsittelevät tietoja Gyydin lukuun ja ohjeiden mukaan. Nämä yritykset eivät saa käyttää tietoja omiin tarkoituksiinsa.",
+            "body4": "Esimerkkejä käsittelijöistä:",
+            "body5": "pilvi- ja palvelininfrastruktuurin tarjoajat",
+            "body6": "viesti- ja sähköpostipalvelujen toimittajat",
+            "body7": "analytiikka- ja tietoturvapalvelut",
+            "body8": "sovelluksen tekniset alihankkijat",
+            "body9": "Käsittelijöillä on pääsy vain niihin tietoihin, joita niiden tehtävä edellyttää."
+        },
+        {
+            "title": "Erilliset rekisterinpitäjät",
+            "body1": "Joissain tilanteissa henkilötietoja voidaan jakaa tahoille, jotka käsittelevät tietoja omissa tarkoituksissaan ja vastaavat tällöin itsenäisesti tietojen käytöstä. Näin tapahtuu vain, kun se on välttämätöntä Palvelun toimittamiseksi tai kun käyttäjä sitä pyytää.",
+            "body2": "Esimerkkejä:",
+            "body3": "– kolmannen osapuolen tunnistuspalvelut (esim. vahva tunnistautuminen yli 18 vuoden iän varmistamiseksi)",
+            "body4": "– yhteistyöyritykset, joille käyttäjä pyytää yhteydenottoa (esim. alennuskampanjat)",
+            "body5": "– sosiaalisen median upotukset tai kirjautumispalvelut, jos käyttäjä käyttää niitä erikseen",
+            "body6": "Gyyti ei tällä hetkellä näytä mainoksia, eikä se jaa tietoja mainosverkostoille."
+        },
+        {
+            "title": "Viranomaiset",
+            "body1": "Voimme jakaa tietoja viranomaisille, kun se on lain mukaan pakollista tai kun se on oikeutettuun etuumme perustuen välttämätöntä:",
+            "body2": "– rikosten tai väärinkäytösten tutkinta (esim. poliisi)",
+            "body3": "– tietopyynnöt lainvalvontaviranomaisilta",
+            "body4": "– verotukseen tai viranomaisvalvontaan liittyvät velvoitteet",
+            "body5": "Voimme jakaa myös tarpeellisia tietoja käyttäjien välisissä kiistatapauksissa (esim. kyytien väärinkäytökset, häiriötilanteet), jos laki sen sallii tai jota riidan ratkaisemiseksi pyydettävät todisteet mahdollisissa oikeustilanteissa vaativat."
+        },
+        {
+            "title": "Yritysjärjestelyt",
+            "body1": "Jos Gyyti myydään, ostaa uuden palvelun tai siirtyy uuteen omistusrakenteeseen:",
+            "body2": "– käyttäjille ilmoitetaan muutoksista",
+            "body3": "– henkilötiedot voidaan siirtää uudelle toimijalle lain sallimissa rajoissa",
+            "body4": "– käyttäjille annetaan mahdollisuus valita, miten heidän tietojaan jatkossa käsitellään"
+        },
+        {
+            "title": "Tutkimus ja tilastot",
+            "body1": "Gyyti voi tukea tutkimusta ja palvelun kehitystä jakamalla anonymisoitua tai pseudonymisoitua dataa, jota ei voida tunnistaa yksittäiseen käyttäjään.",
+            "body2": "Esimerkkejä:",
+            "body3": "– liikenteen ja liikkumisen trendeihin liittyvät koosteet",
+            "body4": "– palvelun käyttöön liittyvä tilastodata",
+            "body5": "– yhteistyö tutkimuslaitosten tai kumppaneiden kanssa",
+            "body6": "Tietoja ei koskaan jaeta yksilöivässä muodossa."
+        },
+        {
+            "title": "Tietojen siirrot EU/ETA-alueen ulkopuolelle",
+            "body1": "Henkilötietoja voidaan siirtää EU/ETA-alueen ulkopuolelle vain seuraavissa tilanteissa:",
+            "body2": "– Siirron kohteena oleva maa tai palveluntarjoaja takaa tietosuojan tason, joka vastaa EU:n tietosuoja-asetuksen (GDPR) vaatimuksia, tai",
+            "body3": "– Siirto perustuu EU:n komission vakiosopimuslausekkeisiin, ja olemme arvioineet siirtoon liittyvät riskit sekä toteuttaneet tarvittavat lisäsuojatoimet käyttäjien tietojen turvaamiseksi.",
+            "body4": "Gyyti käyttää tällaisia siirtoja vain, kun se on välttämätöntä Palvelun toimittamiseksi tai lain edellyttämän velvoitteen täyttämiseksi."
+        },
+        {
+            "title": "Tietoturva",
+            "body1": "Otamme käyttöön asianmukaiset tekniset ja organisatoriset toimenpiteet varmistaaksemme riskitasoon nähden sopivan tietoturvan tason, kuten yleisen tietosuoja-asetuksen (GDPR) 32 artikla edellyttää. Nämä toimenpiteet on suunniteltu suojaamaan henkilötietoja vahingossa tai lainvastaisesti tapahtuvalta tuhoutumiselta, häviämiseltä, muuttamiselta, luvattomalta luovutukselta tai pääsyltä tietoihin.",
+            "body2": "Tällaisia toimenpiteitä ovat muun muassa salauksen ja pseudonymisoinnin käyttö, käyttöoikeuksien hallinta, säännölliset turvallisuustestaukset ja -skannaukset, toteutettujen suojausten arvioinnit ja tarkastukset sekä tehokas tietoturvaloukkausten käsittely."
+        },
+        {
+            "title": "Tietojen säilyttäminen",
+            "body1": "Gyyti säilyttää käyttäjien henkilötietoja vain niin kauan kuin se on tarpeen niiden käsittelyn tarkoitusten kannalta. Säilytyksen perusteena on aina tietosuojasäännösten mukainen oikeusperusta.",
+            "body2": "Pääperiaatteet:",
+            "body3": "Käyttäjätilit ja profiilitiedot:",
+            "body4": "– Säilytämme Gyyti-tilin profiilitiedot toistaiseksi, mikäli käyttäjä ei päätä poistaa tiliä",
+            "body5": "– Maksullisiin palveluihin liittyvät tiedot (esim. tilaus- ja laskutustiedot) säilytetään tilin ollessa aktiivinen sekä kirjanpitolainsäädännön mukaisesti sen jälkeen.",
+            "body6": "Käyttäytymis- ja tekniset tiedot:",
+            "body7": "– Gyyti ei säilytä reaaliaikaista sijaintitietoa",
+            "body8": "– Käyttäytymistietoja ja teknisiä tietoja tuotteiden parantamiseen, sisällön personointiin, palvelun turvallisuuden ja suorituskyvyn varmistamiseen sekä omiin markkinointitarkoituksiin säilytetään enintään 18 kuukautta.",
+            "body9": "– IP-osoitteisiin perustuvia sijaintitietoja mainonnan ja palveluiden kehittämiseen säilytetään enintään 125 päivää.",
+            "body10": "Anonyymit ja de-identifioidut tiedot:",
+            "body11": "– Gyyti voi muodostaa anonymisoituja tietoaineistoja tilastolliseen analyysiin.",
+            "body12": "– Näitä tietoja ei voi yhdistää yksittäiseen henkilöön, joten ne eivät ole henkilötietoja, eikä niille ole määritelty tallennusaikaa."
+        },
+        {
+            "title": "Evästeiden, pikselievästeiden ja vastaavien teknologioiden käyttömme",
+            "body1": "Kun vierailet verkkosivuillamme tai käytät palveluitamme, sovelluksiamme, viestintäjärjestelmiämme (kuten sähköpostia) ja työkalujamme, me tai yhteistyökumppanimme voimme käyttää evästeitä, pikselivästeitä ja muita vastaavia teknologioita tietojen tallentamiseen analytiikkaa ja tilastollista tuotekehitystä ja raportointia varten, suorituskyvyn mittaamista, toiminnallisuuksien tarjoamista, mainontaa, personointia ja markkinointia varten."
+        },
+        {
+            "title": "Mitä ovat evästeet ja vastaavat teknologiat?",
+            "body1": "Kuten useimmat verkkosivustot, voimme käyttää teknologioita, jotka ovat käytännössä pieniä tiedostotyyppejä, jotka sijoitetaan tietokoneellesi, tabletillesi tai matkapuhelimeesi (‘Laite’) ja jotka mahdollistavat tiettyjen tietojen tallentamisen joka kerta kun vierailet tai vuorovaikutat verkkosivustojemme, palveluidemme, sovellustemme, viestintäjärjestelmiemme ja työkalujemme kanssa.",
+            "body2": "Käyttämiemme evästeiden, pikselievästeiden ja muiden vastaavien teknologioiden tarkat nimet ja tyypit voivat muuttua aika ajoin. Lisätietoja evästeistä ja vastaavista teknologioista yleisesti löydät osoitteesta allaboutcookies.org.",
+            "body3": "Auttaaksemme sinua ymmärtämään paremmin evästepolitiikkaamme ja tällaisten teknologioiden käyttöämme, olemme luoneet tämän lyhyen yleiskatsauksen terminologiaan ja määritelmiin:",
+            "body4": "Evästeet: pieniä tekstitiedostoja (yleensä kirjaimista ja numeroista koostuvia), jotka sijoitetaan selaimen tai laitteen muistiin, kun vierailet verkkosivustolla tai luet viestin. Evästeet mahdollistavat verkkosivuston tunnistamisen tiettyä laitetta tai selainta käytettäessä. On olemassa useita erilaisia evästeitä:",
+            "body5": "– Väliaikaiset (istuntoon perustuvat) evästeet vanhenevat, kun lopetat selaimen käytön, ja ne mahdollistavat muistamisen toimistasi selaimen käyttöjakson aikana.",
+            "body6": "– Pysyvät evästeet tallennetaan laitteellesi ja mahdollistavat muistamisen mieltymyksistäsi tai toimistasi useilla eri verkkosivustoilla.",
+            "body7": "– Ensimmäisen osapuolen evästeet asettaa verkkosivusto, jolla vierailet (Gyyti).",
+            "body8": "– Kolmannen osapuolen evästeet asettaa kolmannen osapuolen verkkosivusto, joka on erillinen siitä verkkosivustosta, jolla vierailet (yhteistyökumppanimme).",
+            "body9": "Evästeet voidaan poistaa tai ottaa pois käytöstä käyttämällä työkaluja, jotka ovat saatavilla useimmissa selaimissa. Eri selaimet tarjoavat erilaisia vaihtoehtoja evästeiden tallentamisen estämiseksi.",
+            "body10": "Pikselievästeet: pieniä graafisia kuvia (tunnetaan myös nimillä ‘pikselitunnisteet’ tai ‘selkeät GIF-kuvat’), jotka voivat sisältyä verkkosivustoihimme, palveluihimme, sovelluksiimme, viestintäjärjestelmiimme ja työkaluihimme. Pikselievästeitä voidaan käyttää moniin tarkoituksiin, mukaan lukien verkkosivustojemme tehokkuuden mittaaminen, vierailijoiden seuranta verkkosivustoillamme ja heidän navigointinsa seuranta. Esimerkiksi kun lähetämme sinulle sähköposteja, pikselievästeet mahdollistavat meille sähköpostien avauksen ja linkkien napsauttamisen seuraamisen kampanjan suorituskyvyn mittaamiseksi ja ominaisuuksien parantamiseksi.",
+            "body11": "SDK:t ja mobiilitunnisteet: Kun käytät palveluita mobiililaitteilla, seuranta toteutetaan teknisesti eri tavalla kuin työpöytäversioissa. Mobiilisovelluksiin voidaan sisällyttää SDK:ta (software development kits), jotka keräävät tietoja laitteestasi ja sovelluksen käytöstä. SDK:tä käytetään yleensä mahdollistamaan kolmannen osapuolen toiminnallisuus sovelluksessa, kuten maksaminen tai mainosten tarjoaminen. Mobiilikäyttöjärjestelmät (kuten Apple iOS ja Android) luovat myös mobiilitunnisteita laitteellesi, joita tietyissä tilanteissa voidaan käyttää yksilöllisenä tunnisteena tietojen keräämiseen toimistasi ja sovelluksen käytöstäsi. Voit hallita alustan tarjoamien tunnisteiden käyttöä laitteesi asetuksista.",
+            "body12": "Vastaavat teknologiat tietojen tallentamiseen: teknologiat, jotka tallentavat tietoja selaimessasi tai laitteessasi ja hyödyntävät paikallisia laitteita ja paikallista tallennustilaa, kuten flash-evästeet, HTML 5 -evästeet ja muut menetelmät. Nämä teknologiat voivat toimia kaikissa selaimissasi. Joissakin tapauksissa näiden teknologioiden käyttöä ei voi hallita selaimella, vaan se edellyttää erityistyökaluja. Voimme käyttää näitä teknologioita tietojen tallentamiseen varmistaaksemme tilisi turvallisuuden tai havaitaksemme poikkeavuuksia verkkosivuston käytössä estääksemme tilisi luvattoman käytön tai arvioidaksemme verkkosivustojemme, palveluidemme, sovellustemme tai työkalujemme suorituskykyä.",
+            "body13": "Voimme käyttää termejä ‘evästeet’ tai ‘vastaavat teknologiat’ keskenään vaihdellen evästepolitiikassamme viitataksemme mihin tahansa teknologiaan, jota voimme käyttää tietojen tallentamiseen selaimellesi tai laitteellesi tai tietojen keräämiseen, mikä auttaa meitä tunnistamaan sinut, kuten yksityiskohtaisesti edellä on kuvattu."
+        },
+        {
+            "title": "Valintasi ja evästeiden sekä vastaavien teknologioiden käyttömme",
+            "body1": "Saatamme tarjota verkkosivustoillamme tiettyjä toimintoja, palveluita, sovelluksia ja työkaluja, jotka ovat käytettävissä vain, jos käytämme yllä mainittuja teknologioita. Saamme suostumuksen evästeiden käyttöön, kun käyttäjä vierailee verkkosivustollamme ensimmäistä kertaa. Käyttäjän suostumuksia voi milloin tahansa muuttaa evästeasetuksista. Evästeet ja vastaavat teknologiat voidaan usein myös estää selaimen asetuksista tai mobiilialustalta. Jos seuranta on estetty selaimessa, tämä saattaa tarkoittaa sitä, että jotkut verkkosivustomme ominaisuudet eivät ole käytettävissä. Sinulta saatetaan esimerkiksi pyytää syöttämään salasanasi useammin vieraillessasi verkkosivustoillamme.",
+            "body2": "Evästesuostumus hallitsee evästeiden ja vastaavien teknologioiden käyttöä käyttämissäsi palveluissa. Tarjoamme kuitenkin myös lisää asetuksia kirjautuneille käyttäjille määrittääksemme, miten heidän tietojaan voidaan käyttää (esimerkiksi mainontaan tai markkinointitarkoituksiin)."
+        },
+        {
+            "title": "Käyttömme evästeille ja vastaaville teknologioille",
+            "body1": "Gyyti saattaa käyttää evästeitä ja vastaavia teknologioita seuraaviin yleisiin tarkoituksiin:",
+            "body2": "Välttämättömät",
+            "body3": "– Tekniikat, jotka mahdollistavat verkkosivustojemme, sovellustemme ja palveluidemme toiminnan.",
+            "body4": "– Esimerkiksi: sisäänkirjautuminen, tallennetut haut, sijaintitiedot sekä kyydin lähtö- ja määränpäätiedot, turvallisuuden parantaminen ja luvattoman käytön estäminen.",
+            "body5": "– Näitä voidaan käyttää myös yksinkertaiseen analytiikkaan ja palvelun suorituskyvyn mittaamiseen ilman erillistä suostumusta.",
+            "body6": "Analytiikka ja tuotekehitys",
+            "body7": "– Tietojen kerääminen palveluidemme käytöstä vierailijoiden kokemuksen parantamiseksi.",
+            "body8": "– Käyttötilastot auttavat ymmärtämään, miten palveluita käytetään ja miten sisältöä ja toiminnallisuuksia voidaan kehittää.",
+            "body9": "Personointi",
+            "body10": "– Evästeiden avulla tunnistamme käyttäjän ja seuraamme aiempia valintoja, kiinnostuksia ja katseltuja ilmoituksia.",
+            "body11": "– Tavoitteena on parantaa käyttäjäkokemusta ja tarjota relevanttia sisältöä.",
+            "body12": "– Tähän voi kuulua sinun tunnistaminen sisään kirjautuessasi Palveluumme.",
+            "body13": "Markkinointi",
+            "body14": "– Voimme räätälöidä markkinointisisältöjä eri kanavissa (esim. sähköposti, Meta, Google, Snap, TikTok) käyttäjän kiinnostuksen ja palveluiden käytön perusteella.",
+            "body15": "Mainonta",
+            "body16": "– Evästeitä ja pikseleitä käytetään näyttämään käyttäjälle kiinnostavaa sisältöä ja mainoksia sekä mittaamaan niiden hyödyllisyyttä.",
+            "body17": "– Sisältää sekä ensimmäisen osapuolen että kolmannen osapuolen mainonnan, myös kolmansien osapuolien verkkosivuilla.",
+            "body18": "Palvelumme voivat olla osittain mainosrahoitteisia. Tämä tarkoittaa, että myös kolmannen osapuolen yhteistyökumppanimme voivat käyttää evästeitä ja vastaavia teknologioita:",
+            "body19": "– Mainonnan näyttäminen: Näytetään käyttäjälle kiinnostavaa digitaalista sisältöä.",
+            "body20": "– Räätälöidyt mainosprofiilit: Luodaan profiileja käyttäjän kiinnostusten ja palveluidemme käytön perusteella.",
+            "body21": "– Mainonnan kohdentaminen: Profiileja voidaan hyödyntää räätälöidyn mainonnan näyttämiseen palveluissamme.",
+            "body22": "Mainosevästeiden käyttötarkoitukset on määritelty IAB:n ‘Transparency and Consent Frameworkin’ mukaisesti.",
+            "body23": "Evästeasetuksistamme löydät yhteenvedon käyttötarkoituksista ja kolmannen osapuolen teknologioista. Yhteistyökumppanit, jotka näkyvät esimerkiksi markkinointi-, analyysi- ja tuotekehitystarkoitusten yhteydessä, toimivat usein henkilötietojen käsittelijöinä. Mainoskumppanit ovat yleensä rekisterinpitäjiä. Kolmannen osapuolen teknologioita emme voi täysin hallita. He julkaisevat omat tietojenkäsittelykäytäntönsä."
+        },
+        {
+            "title": "Oikeutesi käyttäjänä ja rekisteröitynä",
+            "body1": "Käyttäjillä on laissa määritellyt oikeudet henkilötietoihinsa. Olemme sitoutuneet tukemaan käyttäjiä näiden oikeuksien käytössä. Alla listataan oikeutesi käyttäjänä sekä sekä miten voit käyttää niitä. Tavoitteenamme on vastata näihin oikeuksiin liittyviin pyyntöihin mahdollisimman nopeasti mutta kuitenkin aina 30 päivän kuluessa."
+        },
+        {
+            "title": "Oikeus saada tietoa henkilötietojen käsittelystä",
+            "body1": "Miten oikeutta voi käyttää",
+            "body2": "Pyrimme olemaan mahdollisimman avoimia kaikesta henkilötietojen käsittelyssä. Informoimme henkilötietojen käsittelystä tämän tietosuojaselosteen sekä kaikkien siihen liittyvien asiakirjojen kautta. Lisäksi informoimme käyttäjiä tietojen keräystilanteissa käyttöliittymien kautta siitä, miten käsittelemme henkilötietoja kussakin tilanteessa Näin pyrimme pitämään käyttäjät ajan tasalla siitä, mitä teemme heidän tiedoillaan.",
+            "body3": "Lisätietoja",
+            "body4": "Linkki Tietosuoja- ja evästekäytäntöihin löytyy kaikista palveluistamme ja se on erityisesti saatavilla, kun tietoja kerätään yksityishenkilöiltä sekä muissa tilanteissa, joissa käyttäjät saattavat hyötyä siitä tai odottaa näkevänsä sen."
+        },
+        {
+            "title": "Oikeus saada pääsy tietoihin",
+            "body1": "Miten oikeutta voi käyttää",
+            "body2": "Käyttäjät voivat pyytää sähköistä kopiota kaikista Palvelun hallussa olevista henkilötiedoistaan ottamalla yhteyttä asiakaspalveluun."
+        },
+        {
+            "title": "Oikeus oikaista tietoja",
+            "body1": "Miten oikeutta voi käyttää",
+            "body2": "Käyttäjä voi korjata tiliinsä liittyviä profiilitietoja milloin tahansa kirjautumalla tililleen ja päivittämällä tietonsa.",
+            "body3": "Jos käyttäjä uskoo, että käsittelemme hänestä muita tietoja, joita tulisi korjata, hän voi ottaa yhteyttä asiakaspalveluun."
+        },
+        {
+            "title": "Oikeus poistaa tiedot",
+            "body1": "Miten oikeutta voi käyttää",
+            "body2": "Käyttäjät voivat pyytää hallussamme olevien henkilötietojen poistamista milloin tahansa käyttämällä olemalla yhteydessä asiakaspalveluun.",
+            "body3": "Käyttäjät, jotka eivät ole rekisteröityneitä eivätkä ole julkaisseet ilmoituksia Torissa tai Oikotiellä, voivat anonymisoida henkilötietonsa poistamalla evästeet selaimestaan tai poistamalla Gyydin käyttäjätilin sekä sovelluksen mobiililaitteestaan. Tilin poistuu poistohetkestä 30 päivän kuluessa. Tällä ajalla käyttäjän on mahdollista palauttaa tilinsä takaisin."
+        },
+        {
+            "title": "Oikeus rajoittaa käsittelyä ja oikeus vastustaa tietojen käsittelyä",
+            "body1": "Miten oikeutta voi käyttää",
+            "body2": "Käyttäjät voivat vastustaa henkilötietojensa käsittelyä seuraavilla tavoilla:",
+            "body3": "– Käyttäjät voivat myös ottaa yhteyttä Gyydin asiakaspalveluun pyytääkseen tietojen käsittelyn rajoitusta tai vastustaakseen mitä tahansa muuta käsittelyn muotoa."
+        },
+        {
+            "title": "Oikeus olla joutumatta automaattisen päätöksenteon kohteeksi",
+            "body1": "Miten oikeutta voi käyttää",
+            "body2": "Emme tee käyttäjistä automaattisia päätöksiä, joilla olisi oikeusvaikutuksia tai vastaavilla tavalla merkittäviä vaikutuksia.",
+            "body3": "Lisätietoja",
+            "body4": "Jos olet huolissasi mahdollisesta automaattisesta päätöksenteosta, jonka uskot vaikuttavan sinuun oikeudellisesti tai vastaavalla tavalla merkittävästi, ota yhteys asiakaspalveluun.",
+            "body5": "Edellä esitettyjen hallintamahdollisuuksien lisäksi, tiettyjä  mobiilisovelluksiin liittyviä käsittelytoimenpiteitä voi hallita suoraan puhelimen asetuksista. Voit esimerkiksi valita haluatko vastaanottaa notifikaatioita sovelluksista tai hyödyntää sijaintiin perustuvia palveluita."
+        },
+        {
+            "title": "Yhteyden ottaminen tai valituksen tekeminen Gyydin tiimiin tai tietosuojaviranomaiseen",
+            "body1": "Suhtaudumme käyttäjiemme henkilötietojen käsittelyyn ja yksityisyyteen erittäin vakavasti. Jos sinulla on kysymyksiä tai haluat tehdä valituksen liittyen henkilötietojesi käsittelyyn, voit ottaa yhteyttä Gyydin asiakaspalveluun. Sitoudumme vastaamaan kyselyihin mahdollisimman nopeasti, viimeistään 30 päivän kuluessa.",
+            "body2": "Jos et ole tyytyväinen tietosuojapalveluihimme tai henkilötietojesi käsittelyyn, voit milloin tahansa osoittaa kysymyksesi myös paikalliselle toimivaltaiselle  viranomaiselle. (Suomen tietosuojavaltuutetulle tai evästeisiin liittyvissä asioissa Liikenne- ja viestintävirasto Traficomille).",
+            "body3": "Yksinkertaisemmissa asioissa suosittelemme, että käytät tarjoamiamme työkaluja ja ominaisuuksia tilin ja henkilötietojen hallintaan. Jos et jostain syystä pysty käyttämään näitä palveluita tai haluat rajoittaa tai suoraan vastustaa käsittelyä, ota yhteys Gyydin asiakaspalveluun.",
+            "body4": "Päivitämme tätä tietosuojakäytäntöä ajoittain heijastamaan muutoksia käytännöissämme, uusia lakisääteisiä vaatimuksia tai alan standardeja. Suosittelemme tutustumaan käytäntöön säännöllisesti saadaksesi ajantasaisinta tietoa siitä, miten käsittelemme henkilötietojasi. Mikäli teemme tähän käytäntöön merkittäviä muutoksia, tiedotamme niistä sinulle ennakoivasti."
+        },
+        {
+            "title": "Rekisterinpitäjän yhteystiedot:",
+            "body1": "Rekisterinpitäjä: Tuukka Uusitalo",
+            "body2": "Sijainti: 00520, Helsinki, Suomi",
+            "body3": "Sähköposti: tuukka@gyyti.com"
+        }
+    ]
+}

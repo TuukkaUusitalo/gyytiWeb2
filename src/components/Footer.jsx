@@ -1,5 +1,6 @@
 import PageLinks from "./PageLinks";
 import SocialLinks from "./SocialLinks";
+import { Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -16,6 +17,15 @@ function Footer() {
         copyright © Gyyti<span id="date">2026</span>. all rights
         reserved
       </p>
+      <div className="footer-documents">
+        <Link className="footer-button" to="/terms">
+          Käyttöehdot
+        </Link>
+
+        <Link className="footer-button" to="/privacy">
+          Tietosuojaseloste
+        </Link>
+      </div>
     </footer>
   );
 }

@@ -1,0 +1,151 @@
+{
+    "updated": "2026-06-24",
+    "effective": "2026-06-24",
+    "language": "fi",
+    "sections": [
+      {
+        "title": "Yleiset käyttöehdot",
+        "body1": "Nämä käyttöehdot (\"Käyttöehdot\") koskevat Gyyti-palvelun (\"Palvelu\") käyttöä. Käyttöehdot muodostavat sitovan sopimuksen Palveluntarjoajan Tuukka Uusitalo (\"Palveluntarjoaja\") ja Palvelun käyttäjän (\"Käyttäjä\") välillä. Verkkosivut: www.gyyti.com",
+        "body2": "Tutustu huolellisesti näihin Käyttöehtoihin, sillä ne sisältävät tärkeää tietoa Gyyti-palvelun käytöstä. Käyttämällä Palvelua Käyttäjä sitoutuu noudattamaan näitä Käyttöehtoja. Mikäli Käyttäjä ei hyväksy Käyttöehtoja, hänen tulee lopettaa Palvelun käyttö välittömästi ja poistaa mahdollisesti lataamansa sovellus laitteeltaan sekä olla käyttämättä verkkopalvelua ja olla jakamatta mitään ilmoituksia ja sisältöä Palvelussa.",
+        "body3": "Näitä Käyttöehtoja voidaan täydentää erillisillä erityisehdoilla (\"Erityisehdot\"), jotka soveltuvat tiettyihin Palvelun osiin. Mikäli Käyttöehdot ja Erityisehdot ovat ristiriidassa, sovelletaan ensisijaisesti kyseisiä Erityisehtoja."
+      },
+     {
+      "title": "1. Palveluntarjoajan oikeudet ja velvollisuudet",
+      "body1": "Palvelu on lähtökohtaisesti käytettävissä ympäri vuorokauden, mutta Palveluntarjoaja ei takaa sen keskeytyksetöntä tai virheetöntä toimintaa. Palveluntarjoajalla on oikeus tilapäisesti poistaa Palvelu tai sen osa käytöstä esimerkiksi huollon, tietoturvasyiden, järjestelmän liiallisen kuormituksen tai muun välttämättömän syyn vuoksi.",
+      "body2": "Palveluntarjoajalla on oikeus kehittää ja muuttaa Palvelun sisältöä, rakennetta, ulkoasua, ohjelmistoja ja muita osia. Palveluntarjoaja voi myös lopettaa Palvelun tarjoamisen kokonaan tai osittain. Mikäli tämä tapahtuu, Palveluntarjoaja pyrkii kohtuuden rajoissa tiedottamaan käyttäjille etukäteen Palvelun kautta tai muulla sopivaksi katsomallaan tavalla.",
+      "body3": "Palveluntarjoajalla on oikeus poistaa Palvelusta aineisto, joka on sen arvion mukaan lain, hyvän tavan tai näiden Käyttöehtojen vastaista, sopimatonta, virheellistä, haitallista tai vahingollista Palvelulle, käyttäjille tai kolmansille osapuolille. Palveluntarjoaja voi tehdä tämän ilman ennakkoilmoitusta.",
+      "body4": "Mikäli Palvelussa tai sen käytössä on Käyttäjien välistä viestintää joko suoraan yksityisviestien ja keskustelufoorumeiden kautta tai epäsuorasti Palveluun jätetyn sisällön kautta, Palveluntarjoaja ei vastaa Käyttäjien välisestä viestinnästä, ilmoituksista tai toiminnasta aiheutuvista haitoista tai vahingoista Käyttäjille tai kolmansille osapuolille. Palveluntarjoaja toimii vain markkinapaikkana kimppakyyti-ilmoitusten tarjonnalle ja kysynnälle.",
+      "body5": "Palveluntarjoaja noudattaa Suomen lakia asettamalla ilmoituksiin teknisen ylärajan, jonka mukaan kyydistä ilmoitettava korvaus ei voi ylittää verottajan määrittämää kilometrikohtaista enimmäiskorvausta eikä muodostua voitolliseksi toiminnaksi. Koska Palveluntarjoaja ei tarjoa maksupalveluita eikä seuraa Käyttäjien välisiä maksuja, Käyttäjät vastaavat itse mahdollisista rahasuorituksista ja niiden lainmukaisuudesta."
+    },
+    {
+      "title": "2. Käyttäjän oikeudet ja velvollisuudet",
+      "body1": "Käyttäjä saa henkilökohtaisen, ei-yksinomaisen oikeuden käyttää Palvelua näiden Käyttöehtojen mukaisesti. Käyttäjä sitoutuu kaikessa Palvelun käytössään noudattamaan soveltuvaa lainsäädäntöä, näitä Käyttöehtoja sekä Palvelussa erikseen annettuja ohjeita. Palvelussa ei saa julkaista laitonta, asiatonta tai hyvän tavan vastaista materiaalia. Tällaiseksi katsotaan muun muassa materiaali, joka on: syrjivää, solvaavaa, loukkaavaa tai uhkaavaa, pornografista, rasistista tai muuten ihmisarvoa loukkaavaa, rikolliseen toimintaan liittyvää tai sitä edistävää, kolmansien osapuolten tekijänoikeuksia, tavaramerkkejä tai muita oikeuksia loukkaavaa, Palvelulle, muille Käyttäjille tai kolmansille osapuolille haitallista tai vahingollista.",
+      "body2": "Käyttäjä vastaa itse Palvelussa julkaisemastaan sisällöstä ja siitä, että hänellä on kaikki tarvittavat oikeudet sisältöön. Käyttäjä vastaa myös kaikista toiminnallaan aiheuttamistaan vahingoista. Mikäli Käyttäjä rikkoo näitä Käyttöehtoja tai jos Palveluntarjoajalla on perusteltu syy epäillä rikkomusta, Palveluntarjoajalla on oikeus poistaa Käyttäjän sisältö, rajoittaa pääsyä Palveluun tai sulkea käyttäjätili välittömästi ilman ennakkoilmoitusta."
+      },
+  
+      {
+        "title": "3. Käyttäjätiedot",
+        "body1": "Palvelun kokonaisvaltainen käyttö edellyttää rekisteröitymistä. Käyttäjän tulee antaa Palveluntarjoajalle Palvelun tarjoamista varten tarvittavat tiedot. Käyttäjä vakuuttaa antaneensa tiedot oikein ja ajantasaisina ja sitoutuu päivittämään käyttäjätilinsä tiedot tarvittaessa, jotta ne pysyvät oikeina ja riittävinä. Käyttäjä vastaa virheistä tai viivästyksistä, jotka johtuvat puutteellisista tai vanhentuneista tiedoista.",
+        "body2": "Käyttäjä kirjautuu Palveluun sähköpostilla ja salasanalla sekä puhelinnumero varmenteella. Sähköposti ja salasana ovat henkilökohtaisia, eikä niitä saa luovuttaa tai ilmoittaa kolmannelle osapuolelle tai muille Käyttäjille Palveluun kirjautumis tarkoituksiin. Käyttäjä on vastuussa kaikesta kyseisellä tunnuksella tapahtuvasta Palvelun käytöstä. Mikäli salasana tai tunnus joutuu ulkopuolisten tietoon, käyttäjän tulee ilmoittaa asiasta välittömästi Palveluntarjoajan asiakaspalveluun. Käyttäjällä voi olla Palvelussa vain yksi käyttäjätili."
+      },
+      {
+        "title": "4. Palvelussa julkaistavat ilmoitukset",
+        "body1": "Käyttäjä voi julkaista Palvelussa ilmoituksia kimppakyydeistä. Palveluntarjoaja pyrkii julkaisemaan ilmoituksen mahdollisimman pian sen jättämisen jälkeen, mutta ei ole velvollinen julkaisemaan sitä. Palveluntarjoajalla on oikeus muokata ilmoitusten otsikointia tai sisältöä ylläpitääkseen Palvelun laatua. Palveluntarjoaja olla julkaisematta ilmoitusta, jos se on harhaanjohtava, sopimaton, loukkaava, sisältää asiattomia aineistoja tai on Käyttöehtojen vastainen.",
+        "body2": "Käyttäjä myöntää Palveluntarjoajalle oikeuden käyttää ilmoitusta palvelun toiminnan ja markkinoinnin yhteydessä, kuten teknisen esittämisen ja jakelun muissa mahdollisissa Palveluntarjoajaan liittyvissä palveluissa.",
+        "body3": "Käyttäjä vastaa itse ilmoituksen sisällöstä ja on Suomen lain mukaisesti rikos- ja vahingonkorvausoikeudellisessa vastuussa julkaisemastaan materiaalista. Käyttäjä- ja tunnistetietoja voidaan luovuttaa viranomaisille, jos on perusteltu syy epäillä rikosta, jonka selvittämistä voidaan edistää tietojen avulla.",
+        "body4": "Palveluntarjoaja pidättää oikeuden poistaa ilmoituksen tai olla julkaisematta sitä Palvelussa, mikäli ilmoitukseen, sen sisältöön tai ilmoituksen tehneeseen Käyttäjään epäillään liittyvän Palveluntarjoajan saaman tiedon mukaan mitä tahansa oikeudellisia epäselvyyksiä. Palveluntarjoaja ei ole vastuussa Käyttäjälle, vaikka myöhemmin osoittautuisi, että epäilyt olivat perusteettomia."
+      },
+      {
+        "title": "5. Maksulliset palvelut ja käyttäjien vastuulla olevat maksut",
+        "body1": "Palvelu on Käyttäjille maksuton. Palvelun kautta ei välity maksuja eikä Palveluntarjoaja osallistu kyydeistä sovittaviin rahaliikenteisiin. Mikäli Palvelussa tarjotaan kolmannen osapuolen maksullisia palveluita yhteistyönä Palveluntarjoajan ja kolmannen osapuolen kanssa, maksullisten osien hinnat ja maksuehdot ilmoitetaan kunkin osan kohdalla erikseen.",
+        "body2": "Käyttäjät voivat sopia kimppakyydeistä mahdollisesti maksettavista korvauksista keskenään. Palveluntarjoaja asettaa teknisen ylärajan ilmoitettavalle kilometrikohtaiselle korvaukselle, jotta ilmoitukset pysyvät Suomen lainsäädännön, esimerkiksi verottajan kilometrikorvausrajojen mukaisina sekä ulkopuolisena palveluna taksilainsäädännön alaisuudesta. Yläraja mukailee auton polttoainekuluja ja käyttämisestä johtuvaa kulumista sekä siitä aiheutuvia kustannuksia. Lopulliseen Käyttäjien väliseen mahdolliseen rahasuoritukseen tai sen suuruuteen Palveluntarjoaja ei ota kantaa.",
+        "body3": "Palveluntarjoaja ei seuraa eikä valvo Käyttäjien välisiä rahansiirtoja, eikä vastaa niiden määrästä tai lainmukaisuudesta. Kaikki Käyttäjien väliset maksut ja maksuihin liittyvät mahdolliset sopimukset ovat Käyttäjien omalla vastuulla, eikä Palveluntarjoaja ole osapuolena niissä.",
+        "body4": "Käyttäjän tulee reklamoida häiriöstä Palveluntarjoajan asiakaspalveluun kohtuullisessa ajassa sen havaitsemisesta tai siitä kun virhe olisi tullut havaita. Asiakaspalvelun yhteystiedot: tuukka@gyyti.com"
+      },
+      {
+        "title": "6. Immateriaalioikeudet",
+        "body1": "Palveluntarjoaja tai sen lisenssinantajat omistavat kaikki oikeudet Palveluun, mukaan lukien kaikki tavaramerkit, tekijänoikeudet ja muut immateriaalioikeudet, jotka liittyvät Palveluun ja sen sisältämään materiaaliin, kuten teksteihin, kuviin, ohjelmistoihin ja muuhun aineistoon (\"Aineisto\"), lukuun ottamatta käyttäjien tuottamaa sisältöä tai kolmannen osapuolen palveluntarjoajien brändiä ja immateriaalioikeuksia.",
+        "body2": "Palveluntarjoaja myöntää käyttäjälle oikeuden käyttää Palvelua ja Aineistoa ainoastaan Palvelun tavanomaisen käyttötarkoituksen mukaisesti. Käyttäjä ei saa siirtää käyttöoikeutta kolmansille osapuolille.",
+        "body3": "Julkaisemalla sisältöä Palvelussa, kuten ilmoituksia, kuvia tai tekstejä (\"Käyttäjän Tuottama Sisältö\"), käyttäjä myöntää Palveluntarjoajalle rajoittamattoman, maksuttoman oikeuden käyttää, tallentaa, muokata ja esittää sisältöä Palvelun toiminnan, teknisen ylläpidon ja markkinoinnin yhteydessä, mukaan lukien yhteistyökumppaneiden kanssa toteutettu käyttö.",
+        "body4": "Käyttäjä vastaa siitä, että tuottama sisältö ei loukkaa kolmansien osapuolten oikeuksia (esimerkiksi tekijänoikeuksia) eikä ole lain tai hyvän tavan vastaista. Palveluntarjoajalla on oikeus käyttää Käyttäjän Tuottamaa Sisältöä muun muassa: arkistointiin, Palvelun teknisen ylläpidon ja kehittämisen tarkoituksiin, lakisääteisten velvoitteiden osoittamiseen, viranomaismääräysten noudattamiseen, muuhun Palveluntarjoajan kohtuudella katsomaan tarkoitukseen.",
+        "body5": "Käyttäjällä on oikeus sijoittaa omille verkkosivuilleen tai verkossa toimiviin profiileihin (esimerkiksi sosiaalinen media) linkki Palvelun pääsivulle. Muuhun julkiseen levitykseen tai kaupalliseen käyttöön vaaditaan Palveluntarjoajan etukäteinen kirjallinen suostumus."
+      },
+      {
+        "title": "7. Käyttöoikeuden siirtäminen ja lakkaaminen",
+        "body1": "Käyttäjällä ei ole oikeutta luovuttaa tai siirtää Palvelun käyttöoikeutta (mukaan lukien sähköpostia ja salasana) kolmannelle osapuolelle tai toiselle Käyttäjälle.",
+        "body2": "Palveluntarjoaja voi kieltäytyä antamasta käyttäjätunnusta, peruuttaa myönnetyn käyttäjätunnuksen tai estää Käyttäjän pääsyn Palveluun, mikäli Käyttäjä toimii näiden Käyttöehtojen, lain tai hyvän tavan vastaisesti.",
+        "body3": "Palveluntarjoajalla on oikeus tilapäisesti estää Käyttäjän pääsy Palveluun, jos se on tarpeen Palvelun toiminnan kannalta. Mikäli Käyttäjä ei ole käyttänyt Palvelua kuuteen (6) kuukauteen, Palveluntarjoaja voi harkintansa mukaan mitätöidä käyttäjätunnuksen ja salasanan. Käyttäjä voi halutessaan rekisteröityä uudelleen Palveluun. Käyttäjän tunnus ja salasana poistetaan automaattisesti käyttöoikeuden päättyessä.",
+        "body4": "Sopimuksen päättymisestä huolimatta nämä Käyttöehdot, erityisesti immateriaalioikeuksia, käyttäjien tuottaman sisällön käyttöoikeuksia, viestinnän vastuuta sekä vastuunrajoitusta koskevat kohdat, jäävät voimaan ilman ajallista rajoitetta.",
+        "body5": "Koska Palveluntarjoajan tuottama Palvelu on maksuton, Palvelun käyttöoikeuden lakkaaminen ei liity maksuihin, eikä vapauta käyttäjää mahdollisista Käyttäjien välisistä kyydeistä ja sovituista rahasuorituksista."
+      },
+      {
+        "title": "8. Vastuunrajoitus",
+        "body1": "Palveluntarjoaja tarjoaa Palvelun ja sen sisällön \"sellaisena kuin se on\" ilman mitään takuita, vakuutuksia tai lisävastuita. Käyttäjä käyttää Palvelua omalla vastuullaan. Palveluntarjoaja ei vastaa Palvelun käyttöön liittyvistä tietoturvariskeistä, käyttäjien ilmoitusten sisällön oikeellisuudesta, kyytien toteutumisesta tai sopivuudesta tiettyyn tarkoitukseen, muuta kuin mitä pakottava lainsäädäntö edellyttää. Palveluntarjoaja edellyttää, että jokainen Palvelussa kyytejä tarjoava autoileva Käyttäjä tarjoaa kyytejä moottoriajoneuvolla, joka on tieliikennekelpoinen, tieliikennekäytössä ja vakuutettu vähintään Suomen lain vaatimalla liikennevakuutuksella.",
+        "body2": "Ellei pakottavasta lain säännöksestä muuta johdu, Palveluntarjoaja ei vastaa välittömistä tai välillisistä vahingoista, joita Käyttäjälle, Käyttäjän omaisuudelle tai kolmansille osapuolille mahdollisesti aiheutuu Palvelun käyttämisestä, keskeytyksistä, viivästyksistä, virheistä tai puutteista, tiedoista tai ilmoituksista, joita Palvelun kautta on saatavilla.",
+        "body3": "Käyttäjä on velvollinen korvaamaan Palveluntarjoajalle sekä kolmansille osapuolille aiheutuneen vahingon, joka johtuu Käyttäjän lain, viranomaisten määräysten tai näiden Käyttöehtojen vastaisesta toiminnasta tai laiminlyönnistä."
+      },
+      {
+        "title": "9. Ylivoimainen este",
+        "body1": "Kumpikaan osapuoli ei vastaa vahingoista, jotka johtuvat osapuolen vaikutusmahdollisuuksien ulkopuolella olevasta esteestä, jota osapuolen ei voida kohtuudella olettaa ottaneen huomioon sopimuksentekohetkellä ja jonka seurauksia osapuoli ei olisi kohtuudella voinut välttää tai estää."
+      },
+      {
+        "title": "10. Henkilötietojen käsittely ja evästeet",
+        "body1": "Palveluntarjoaja käsittelee Käyttäjien henkilötietoja Palveluntarjoajan tietosuojakuvauksen ja tietosuojaselosteen sekä yksityisyydensuojaa koskevan lainsäädännön mukaisesti. Palvelussa voidaan käyttää evästeitä ja muita vastaavia teknologioita tietosuojaselosteessa kuvatulla tavalla palvelun toiminnallisuuden ja käyttökokemuksen parantamiseksi."
+      },
+      {
+        "title": "11. Käyttöehtojen muuttaminen",
+        "body1": "Palveluntarjoaja pidättää oikeuden muuttaa Käyttöehtoja. Käyttöehtoja saatetaan aika ajoin muuttaa ja täydentää erityisesti Palveluiden tarjonnan tai sisällön muuttuessa, lainsäädännön tai viranomaiskäytännön muutoksista johtuen tai ennakoimattomien olosuhteiden vuoksi. Palveluntarjoaja ilmoittaa olennaisista muutoksista Käyttäjän antamaan sähköpostiosoitteeseen, Palvelussa ja/tai Palvelun verkkosivustolla viimeistään kolmekymmentä (30) päivää ennen muutosten astumista voimaan. Mikäli Käyttäjä ei hyväksy muutoksia, Käyttäjällä on oikeus luopua Palvelun käytöstä. Käyttäjän katsotaan hyväksyneen muutokset, mikäli Käyttäjä käyttää Palvelua muutosten voimaantulon jälkeen."
+      },
+      {
+        "title": "12. Muut ehdot",
+        "body1": "Palvelu saattaa sisältää linkkejä ja yhteyksiä kolmannen osapuolen verkkosivustoihin ja palveluihin. Tällaisiin kolmannen osapuolen tarjoamiin palveluihin sovelletaan kyseisen kolmannen osapuolen käyttö- ja muita ehtoja, eikä Palveluntarjoaja vastaa sivustojen yksityisyydensuojakäytännöistä, sisällöstä, toimivuudesta tai soveltuvuudesta Käyttäjälle."
+      },
+      {
+        "title": "13. Sovellettava laki ja erimielisyyksien ratkaisu",
+        "body1": "Näihin Käyttöehtoihin ja mahdollisiin Erityisehtoihin sekä niiden tulkintaan sovelletaan Suomen lakia lukuun ottamatta sen lainvalintaa koskevia säännöksiä.",
+        "body2": "Palveluntarjoajan ja Käyttäjän väliset mahdolliset Käyttöehtoja tai Palvelua koskevat erimielisyydet pyritään ratkaisemaan aina osapuolten välisillä neuvotteluilla. Palveluntarjoajan ja Käyttäjän väliset riidat ratkaistaan Suomen yleisissä tuomioistuimissa.",
+        "body3": "Kuluttajalla on kuitenkin aina oikeus saattaa asia kuluttajariitalautakunnan (www.kuluttajariita.fi) ratkaistavaksi ottamalla yhteyttä kuluttajariitalautakuntaan, jonka osoite on Hämeentie 3, PL 306, 00531 Helsinki, puhelinnumero 029 566 5200 ja sähköpostiosoite kril@oikeus.fi.",
+        "body4": "Ennen asian viemistä kuluttajariitalautakunnan käsittelyyn suosittelemme olemaan yhteydessä kuluttajaneuvontaan (www.kkv.fi/kuluttajaneuvonta), jonka tavoittaa puhelinnumerosta 029 505 3050. Euroopan komissio tarjoaa myös verkkovälitteisen riidanratkaisufoorumin, joka on erityisesti tarkoitettu toisessa EU-maassa asuvalle kuluttajalle, http://ec.europa.eu/consumers/odr/."
+      },
+      {
+        "title": "14. Käyttöehtojen voimassaoloaika ja yhteydenotot",
+        "body1": "Nämä Käyttöehdot tulevat voimaan alkaen 01.12.2025 ja ne ovat voimassa toistaiseksi.",
+        "body2": "Käyttäjä voi osoittaa Palvelua koskevat mahdolliset reklamaatiot, kysymykset Käyttöehdoista tai palautteet suoraan Palveluntarjoajalle ottamalla yhteyttä sähköpostitse Palveluntarjoajan asiakaspalveluun. Palveluntarjoajan asiakaspalvelun yhteystiedot löytyvät Palveluntarjoajan verkkosivuilta: https://gyyti.com tai tuukka@gyyti.com",
+        "body3": "Tallennamme kaikki viestit asiakaspalvelun kehittämistä ja nopeuttamista varten.",
+        "body4": "Osoitetiedot: ",
+        "body5": "Rekisterinpitäjä: Tuukka Uusitalo, 00520 Helsinki, Suomi, tuukka@gyyti.com"
+      },
+      {
+        "title": "15. Palvelukohtaiset erityisehdot",
+        "body1": "Käyttöehtojen yleisten ehtojen lisäksi Käyttäjä sitoutuu noudattamaan mahdollisia erityisiä ehtoja. Mikäli erityiset ehdot eroavat yleisistä ehdoista, sovelletaan ensisijaisesti näitä erityisiä ehtoja."
+      },
+      {
+        "title": "15.1 Erityisehdot Gyyti"
+      },
+      {
+        "title": "15.2 Palvelun kuvaus",
+        "body1": "Nämä palvelukohtaiset erityisehdot koskevat Gyyti-Palvelua, joka tarjoaa käyttäjille alustan kimppakyyti-ilmoitusten julkaisemiseen ja selaamiseen sekä kyydeistä kommunikointiin (\"Palvelu\"). Palveluntarjoaja ei itse järjestä tai toteuta kyytejä, vaan toimii ainoastaan ilmoitusten julkaisemisalustana. Käyttäjät sopivat keskenään kaikista kyyteihin liittyvistä ehdoista, järjestelyistä ja mahdollisista korvauksista."
+      },
+      {
+        "title": "15.3 Ikäraja",
+        "body1": "Palvelun käyttö edellyttää, että Käyttäjä on vähintään 18-vuotias. Alle 18-vuotiaat voivat käyttää Palvelua vain huoltajan nimenomaisella suostumuksella ja valvonnassa."
+      },
+      {
+        "title": "15.4 Ajoneuvojen kelpoisuus ja vakuutukset",
+        "body1": "Kaikkien Palvelussa kyytitarkoituksessa käytettävien ajoneuvojen tulee olla asianmukaisesti liikennevakuutettuja, rekisteröityjä, katsastettuja ja tieliikennekelpoisia sekä lain ja määräysten mukaisessa kunnossa.",
+        "body2": "Palveluntarjoaja ei vastaa eikä valvo ajoneuvojen kuntoa, siisteyttä, vakuutustilannetta tai turvallisuutta. Vastuu ajoneuvon kunnosta ja lainmukaisuudesta on aina Käyttäjällä, joka on ajoneuvon omistaja, haltija tai kuljettaja."
+      },
+      {
+        "title": "15.5 Vastuunrajoitus kyydeissä",
+        "body1": "Palveluntarjoaja ei ole osapuolena käyttäjien välisissä sopimuksissa tai järjestelyissä, eikä se vastaa kyydin toteutumisesta, aikatauluista tai reiteistä muuten kuin tarjoamalla yleistä reititys ominaisuutta tai reittiehdotuksia alustalla olevan sen hetkisen kysynnän ja tarjonnan mukaan. Palveluntarjoaja ei myöskään vastaa vahingoista, jotka mahdollisesti aiheutuvat palvelun käytön aikana Käyttäjien omaisuudelle. Palveluntarjoaja ei vastaa ajoneuvon siisteydestä, varustelusta tai mukavuudesta, Käyttäjän omaisuudelle tai terveydelle mahdollisesti aiheutuvista vahingoista Palvelun käytön aikana tai mahdollisista erimielisyyksistä, rahasuorituksista tai muista Palvelun käyttöön liittyvistä asioista."
+      },
+      {
+        "title": "15.6 Henkilötietojen käsittely ja evästeiden käyttö",
+        "body1": "Palveluntarjoaja käsittelee Käyttäjien henkilötietoja Palveluntarjoajan tietosuojakuvauksen ja tietosuojaselosteen sekä soveltuvan tietosuojalainsäädännön mukaisesti. Gyyti-Palvelu käyttää evästeitä tietosuojaselosteessa kuvatuin tavoin."
+      },
+      {
+        "title": "15.7 Ilmoitusten sijoittelu",
+        "body1": "Käyttäjillä on mahdollisuus vaikuttaa siihen, missä ja miten heidän Palveluun lisäämänsä ilmoitukset näkyvät. Ilmoitus voidaan asettaa näkyväksi kaikille Palvelun käyttäjille tai rajata se näkyväksi vain käyttäjän itse valitsemille ryhmille tai yhteisöille. Palveluun voidaan myöhemmin lisätä uusia ilmoitusten näkyvyys- ja ryhmäominaisuuksia, jotka voivat edelleen vaikuttaa ilmoitusten sijoitteluun.",
+        "body2": "Palvelu voi järjestää ja suositella ilmoituksia useilla eri tavoilla, jotta Käyttäjille voidaan esittää heille mahdollisesti relevantimpaa sisältöä ja kyyti tai matkaehdotuksia. Ilmoitusten järjestelyyn ja esitystapaan voi vaikuttaa muun muassa ilmoituksen sisältö, Käyttäjän antamat hakuehdot, Käyttäjän sijainti sekä se, miten Käyttäjä ja muut vastaavanlaiset käyttäjät ovat Palvelua aiemmin käyttäneet.",
+        "body3": "Osuvuuden mukaan – Palveluntarjoaja voi järjestää ilmoitukset sen perusteella, kuinka hyvin ilmoituksen sisältö vastaa Käyttäjän hakua tai käyttöprofiilia. Myös Käyttäjän aiempi Palvelun käyttö voi vaikuttaa suositeltaviin ilmoituksiin.",
+        "body4": "Aiemmat kyydit ja matkat – Palvelu voi suositella matkoja ja muita Palvelun Käyttäjiä, joiden kanssa Käyttäjä on itse matkustanut aiemmin.",
+        "body5": "Julkaisupäivän mukaan – Ilmoitukset matkoista ja kyydeistä voidaan järjestää sen mukaan, milloin ne ovat tapahtumassa. Uusimmat ilmoitukset voidaan esittää ensimmäisenä.",
+        "body6": "Hinnan tai kustannusten mukaan – Mikäli ilmoitukseen liittyy Palveluntarjoajasta riippumattomia Käyttäjien välisiä kustannuksia, ilmoitukset voidaan järjestää esimerkiksi halvimmasta kalleimpaan tai päinvastoin.",
+        "body7": "Sijaintiin perustuen – Mikäli Käyttäjä antaa luvan sijaintitietojen käyttöön, ilmoituksia voidaan järjestää sen mukaan, mitkä ilmoitukset sijaitsevat lähimpänä Käyttäjää tai miten kyytejä ja Käyttäjiä voidaan reititysmielessä yhdistää toisilleen järkevällä tavalla.",
+        "body8": "Lisäksi Palvelu voi lähettää Käyttäjän mobiililaitteelle ilmoituksia (push-notifikaatioita) esimerkiksi uusista kyytipyynnöistä, saapuvista kyytiehdotuksista, yhteensopivista matkasuosituksista tai muista Palvelun toimintaan liittyvistä tapahtumista. Tavoitteena on parantaa Käyttäjien välisten matkojen yhdistämistä ja todennäköisyyttä, nopeuttaa reagointia ja tarjota Käyttäjälle sujuvampaa käyttökokemusta. Käyttäjä voi hallita ilmoitusasetuksia laitteensa asetuksista."
+      },
+      {
+        "title": "15.8 Peruutusoikeus",
+        "body1": "Palvelussa Käyttäjät voivat julkaista kyyteihin liittyviä ilmoituksia sekä matkustajan että autoilijan roolissa tai matkustajan roolissa tapahtuvia tiedossa olevia kolmannen osapuolen palvelussa tapahtuvia taksimatkoja. Palveluntarjoaja ei tarjoa itse kyytejä, välitä maksuja eikä toimi sopimusosapuolena Käyttäjien välisessä toiminnassa. Mikäli ilmoituksissa esitetään hintoja tai kustannusarvioita, ne ovat yksinomaan Käyttäjien itse määrittelemiä arvioita tai suosituksia, eivätkä ne sido Palveluntarjoajaa millään tavalla. Käyttäjät sopivat mahdollisesta maksusta, sen toteutumisesta sekä muista matkakohtaisista ehdoista suoraan keskenään.",
+        "body2": "Palvelussa näytettävät kustannusarviot voivat perustua esimerkiksi keskikulutuksiin, polttoainehintoihin ja matkan pituuteen. Ne ovat vain suuntaa-antavia arvioita ja tarkoitettu helpottamaan Käyttäjien päätöksentekoa. Palveluntarjoaja ei kuitenkaan takaa arvioiden paikkansapitävyyttä, eikä vastaa maksujen toteutumisesta tai siitä, syntyykö ilmoituksen perusteella kyytiä lainkaan.",
+        "body3": "Koska Palvelu on luonteeltaan ilmoitusalusta, Palvelu katsotaan toteutetuksi heti, kun Käyttäjän lisäämä ilmoitus on onnistuneesti julkaistu Palvelussa. Julkaisemalla ilmoituksen Käyttäjä pyytää Palvelun suorittamista välittömästi ja hyväksyy sen, että lakisääteinen 14 päivän peruutusoikeus päättyy palvelun toteutuessa. Palvelun katsotaan toteutuneen siitä hetkestä alkaen, kun ilmoitus on julkaistu Palvelussa.",
+        "body4": "Sama peruutusoikeuden päättyminen koskee mahdollisia ilmoitukseen liittyviä lisäominaisuuksia tai lisäpalveluita, mikäli sellaisia otetaan Käyttäjän toimesta käyttöön ja ne toteutetaan viipymättä ilmoituksen julkaisemisen tai muokkaamisen yhteydessä."
+      },
+      {
+        "title": "15.9 Ilmoitusten julkaiseminen",
+        "body1": "Käyttäjät voivat julkaista Palvelussa kyyteihin liittyviä ilmoituksia yksityishenkilöinä. Palvelun perusluonne on yksityishenkilöiden matkoihin liittyvä ilmoitusalusta, jossa Palveluntarjoaja ei ole osapuolena Käyttäjien välisissä sopimuksissa tai mahdollisissa maksuissa.",
+        "body2": "Yrityskäyttäjien tai yritysten tekemät julkaisut tulee aina julkaista ilmoituksensa kyseisessä roolissa. Yritykset eivät saa julkaista ilmoituksia yksityishenkilönä. Palveluntarjoajalla on oikeus määritellä tapauskohtaisesti, milloin ilmoitus on luonteeltaan yrityskäyttäjän ilmoitus.",
+        "body3": "Palvelussa voidaan lisäksi näyttää kolmansien osapuolten tai yritysten sisältöä, kuten mainoksia, tarjouksia tai muita palveluita, jotka ovat Käyttäjille näkyviä. Nämä sisällöt erotetaan selkeästi Käyttäjien itse tekemistä ilmoituksista Palvelussa, eikä niitä sekoiteta Käyttäjien tuottamaan sisältöön ja ilmoituksiin."
+      }
+    ]
+  }

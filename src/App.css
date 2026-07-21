@@ -252,6 +252,69 @@ Hero
   border-color: var(--clr-white);
 }
 
+.legal-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 100px 32px 80px;
+  color: #222;
+  line-height: 1.8;
+}
+
+.legal-page h1 {
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.legal-date {
+  text-align: center;
+  color: #777;
+  font-size: 0.95rem;
+  margin-bottom: 3rem;
+}
+
+.legal-section {
+  margin-bottom: 3rem;
+}
+
+.legal-section h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #111;
+}
+
+.legal-section p {
+  margin-bottom: 1.2rem;
+  text-align: justify;
+  white-space: pre-line;
+}
+
+/* Footerin napit */
+
+.footer-documents {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.footer-button {
+  display: inline-block;
+  padding: 10px 18px;
+  border-radius: 8px;
+  color: var(--clr-primary-5);
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+.footer-button:hover {
+  background: var(--clr-grey-4);
+  border-color: #bbb;
+}
+
 @media screen and (min-width: 768px) {
   .hero {
     background: linear-gradient(#75b0ff, rgba(0, 0, 0, 0.3)),
@@ -268,6 +331,45 @@ Hero
   
   .hero-banner img {
     width: 40rem;
+  }
+
+  .legal-page {
+    padding: 90px 20px 50px;
+  }
+
+  .legal-page h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+
+  .legal-date {
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+  }
+
+  .legal-section {
+    margin-bottom: 2.5rem;
+  }
+
+  .legal-section h2 {
+    font-size: 1.3rem;
+    line-height: 1.35;
+  }
+
+  .legal-section p {
+    font-size: 0.98rem;
+    text-align: left;
+    line-height: 1.75;
+  }
+
+  .footer-documents {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer-button {
+    width: 220px;
+    text-align: center;
   }
 }
 
